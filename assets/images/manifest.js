@@ -44,25 +44,28 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "blueberry-closeup": {
-   "src": "assets/images/standin/fruits/blueberry-closeup",
-   "w": 1185,
-   "h": 870,
+   "src": "assets/images/generated/fruits/blueberry-closeup",
+   "w": 816,
+   "h": 854,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "blueberry-group": {
-   "src": "assets/images/standin/fruits/blueberry-group",
-   "w": 1069,
-   "h": 936,
+   "src": "assets/images/generated/fruits/blueberry-group",
+   "w": 911,
+   "h": 731,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "blueberry-single": {
-   "src": "assets/images/standin/fruits/blueberry-single",
-   "w": 948,
-   "h": 979,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/blueberry-single",
+   "w": 654,
+   "h": 723,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "caramel-drizzle": {
    "src": "assets/images/standin/chocolate/caramel-drizzle",
@@ -409,11 +412,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "raspberry-single": {
-   "src": "assets/images/standin/fruits/raspberry-single",
-   "w": 867,
-   "h": 747,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/raspberry-single",
+   "w": 751,
+   "h": 783,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-choco-overload": {
    "src": "assets/images/standin/shakes/shake-choco-overload",
@@ -458,11 +462,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "strawberry-closeup": {
-   "src": "assets/images/standin/fruits/strawberry-closeup",
-   "w": 964,
-   "h": 1186,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/strawberry-closeup",
+   "w": 751,
+   "h": 1026,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-cut": {
    "src": "assets/images/standin/slices/strawberry-cut",
@@ -473,8 +478,8 @@ window.SF_MANIFEST = {
   },
   "strawberry-front": {
    "src": "assets/images/generated/fruits/strawberry-front",
-   "w": 769,
-   "h": 974,
+   "w": 692,
+   "h": 923,
    "sm": false,
    "source": "hf",
    "avif": false
@@ -487,11 +492,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "strawberry-side": {
-   "src": "assets/images/standin/fruits/strawberry-side",
-   "w": 1002,
-   "h": 890,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/strawberry-side",
+   "w": 710,
+   "h": 827,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-slice": {
    "src": "assets/images/standin/slices/strawberry-slice",

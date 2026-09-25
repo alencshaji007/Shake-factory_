@@ -1,0 +1,21 @@
+{
+  "name": "shake-factory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SHAKE FACTORY — cinematic static website + asset production pipeline",
+  "type": "module",
+  "scripts": {
+    "serve": "node tools/serve.mjs",
+    "vendor": "node tools/vendor.mjs",
+    "assets:standins": "node tools/build-standins.mjs",
+    "assets:generate": "node tools/generate-assets.mjs",
+    "assets:process": "node tools/process-images.mjs",
+    "assets:video": "node tools/generate-videos.mjs"
+  },
+  "devDependencies": {
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "sharp": "^0.33.5",
+    "three": "^0.169.0"
+  }
+}

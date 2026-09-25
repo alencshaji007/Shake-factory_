@@ -12,7 +12,7 @@
  *   node tools/process-images.mjs --only mango-cube --cutout key
  *
  * Cutout providers (--cutout):
- *   auto   (default) rembg CLI if installed → Hugging Face BiRefNet Space if HF_TOKEN → key
+ *   auto   (default) rembg CLI if installed → Hugging Face BiRefNet Space → local key
  *   rembg  local `rembg` (pip install "rembg[cli]") with the BiRefNet model
  *   space  Hugging Face Space not-lain/background-removal (BiRefNet) via @gradio/client
  *   key    local colour key against the seamless studio backdrop (no network)
@@ -48,7 +48,8 @@ async function cutoutRembg(input, output) {
 let spaceClient;
 async function cutoutSpace(input, output) {
   const { Client, handle_file } = await import('@gradio/client');
-  spaceClient ??= await Client.connect(process.env.HF_CUTOUT_SPACE || 'not-lain/background-removal', { hf_token: process.env.HF_TOKEN });
+  const token = process.env.HF_TOKEN;
+  spaceClient ??= await Client.connect(process.env.HF_CUTOUT_SPACE || 'not-lain/background-removal', token ? { hf_token: token } : {});
   // Find the first endpoint that takes a single image.
   const api = await spaceClient.view_api();
   const [name] = Object.entries(api.named_endpoints).find(([, e]) => e.parameters.length === 1 && /image/i.test(e.parameters[0].python_type?.type || e.parameters[0].component)) || [];
@@ -56,7 +57,7 @@ async function cutoutSpace(input, output) {
   const result = await spaceClient.predict(name, [handle_file(fs.readFileSync(input))]);
   const urls = JSON.stringify(result.data).match(/https?:[^"]+?\.(?:png|webp)/g) || [];
   for (const url of urls) {
-    const buf = Buffer.from(await (await fetch(url, { headers: { Authorization: `Bearer ${process.env.HF_TOKEN}` } })).arrayBuffer());
+    const buf = Buffer.from(await (await fetch(url, { headers: token ? { Authorization: `Bearer ${token}` } : {} })).arrayBuffer());
     if ((await sharp(buf).metadata()).hasAlpha) { await sharp(buf).png().toFile(output); return; }
   }
   throw new Error('Cutout Space returned no transparent image');
@@ -129,7 +130,7 @@ async function trimPad(file) {
 export async function processAssets(list, { cutout = 'auto' } = {}) {
   loadEnv();
   const manifest = readManifest();
-  const provider = cutout === 'auto' ? (hasRembg() ? 'rembg' : process.env.HF_TOKEN ? 'space' : 'key') : cutout;
+  let provider = cutout === 'auto' ? (hasRembg() ? 'rembg' : 'space') : cutout;
 
   for (const a of list) {
     const original = path.join(ORIGINALS_DIR, a.category, `${a.id}.png`);
@@ -144,7 +145,8 @@ export async function processAssets(list, { cutout = 'auto' } = {}) {
       else if (provider === 'space') await cutoutSpace(original, master);
       else await cutoutKey(original, master, a.backdrop);
     } catch (err) {
-      console.warn(`  ! ${a.id}: ${provider} cutout failed (${err.message}) — using local key`);
+      console.warn(`  ! ${a.id}: ${provider} cutout failed (${err.message}) — using local key${cutout === 'auto' ? ' from now on' : ''}`);
+      if (cutout === 'auto') provider = 'key'; // don't retry an unreachable provider for every asset
       await cutoutKey(original, master, a.backdrop);
     }
     if (a.cutout && a.shadow && a.backdrop === 'white') await keepShadow(original, master);

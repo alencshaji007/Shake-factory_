@@ -16,14 +16,19 @@ export function loadEnv() {
   }
 }
 
-export function requireToken() {
+/**
+ * Hugging Face auth. Two supported setups:
+ *  - HF_TOKEN in the environment / .env (local machine, CI)
+ *  - no token in the environment, because a cloud environment "API credential"
+ *    makes the network proxy attach it to requests for *.huggingface.co / *.hf.space
+ *    (the key then never enters the session). Requests are sent without an
+ *    Authorization header and routed through router.huggingface.co.
+ */
+export function hfToken() {
   loadEnv();
   const token = process.env.HF_TOKEN || process.env.HUGGINGFACEHUB_API_TOKEN;
-  if (!token) {
-    console.error('\n✖ HF_TOKEN is not set. Copy .env.example to .env and add your Hugging Face token.\n');
-    process.exit(1);
-  }
-  return token;
+  if (!token) console.log('ℹ No HF_TOKEN set — assuming an environment API credential authenticates Hugging Face requests.');
+  return token || undefined;
 }
 
 /** Tiny argv parser: --flag, --key value, --key=value. */

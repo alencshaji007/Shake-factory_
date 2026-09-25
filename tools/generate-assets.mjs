@@ -18,7 +18,7 @@ import sharp from 'sharp';
 import { InferenceClient } from '@huggingface/inference';
 import { ASSETS, NEGATIVE, promptFor } from './assets.config.mjs';
 import { ORIGINALS_DIR } from './lib/paths.mjs';
-import { args, requireToken, selectAssets } from './lib/env.mjs';
+import { args, hfToken, selectAssets } from './lib/env.mjs';
 import { processAssets } from './process-images.mjs';
 
 const opts = args();
@@ -35,8 +35,7 @@ if (opts['dry-run']) {
   process.exit(0);
 }
 
-const token = requireToken();
-const client = new InferenceClient(token);
+const client = new InferenceClient(hfToken());
 const originalPath = (a) => path.join(ORIGINALS_DIR, a.category, `${a.id}.png`);
 
 const todo = list.filter((a) => opts.force || !fs.existsSync(originalPath(a)));
@@ -76,6 +75,8 @@ async function generate(a) {
 
 async function worker() {
   while (cursor < todo.length) {
+    // nothing has worked yet and several assets failed: auth/network problem, stop early
+    if (!done.length && failed.length >= 3) { cursor = todo.length; break; }
     const a = todo[cursor++];
     (await generate(a) ? done : failed).push(a);
   }
@@ -89,4 +90,5 @@ if (done.length && !opts['no-process']) {
 }
 
 console.log(`\nGenerated ${done.length}, failed ${failed.length}${failed.length ? `: ${failed.map((a) => a.id).join(', ')}` : ''}`);
+if (!done.length && failed.length) console.log('Check that router.huggingface.co is reachable and that HF_TOKEN (or an environment API credential) has Inference Providers permission.');
 process.exitCode = failed.length ? 1 : 0;

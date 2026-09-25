@@ -83,8 +83,14 @@ Every asset is its own photograph (fruit, slices, nuts, chocolate, cookies, ice,
 
 ### Option A: automatic (recommended)
 
+Authentication, either one:
+
+- **Local machine / CI:** `cp .env.example .env` and set `HF_TOKEN=hf_…` (a fine-grained token with *Make calls to Inference Providers*).
+- **Claude Code cloud environment (Pro/Max):** add the token as an **API credential** (Bearer, allowed websites `huggingface.co`, `*.huggingface.co`, `*.hf.space`). The network proxy attaches it and the token never enters the session. Leave `HF_TOKEN` unset.
+
+The token is used only by these scripts. The static site never sees it.
+
 ```bash
-cp .env.example .env        # add HF_TOKEN=hf_… (server/dev side only: never referenced by the site)
 npm run assets:generate     # generate → cut out → WebP/AVIF → manifest, for everything missing
 npm run assets:generate -- --category shakes --force
 npm run assets:generate -- --only strawberry-closeup --seed 7

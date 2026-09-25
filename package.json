@@ -13,8 +13,11 @@
     "assets:video": "node tools/generate-videos.mjs"
   },
   "devDependencies": {
+    "@gradio/client": "^2.7.0",
+    "@huggingface/inference": "^4.13.30",
     "gsap": "^3.12.5",
     "lenis": "^1.1.13",
+    "playwright": "1.56",
     "sharp": "^0.33.5",
     "three": "^0.169.0"
   }

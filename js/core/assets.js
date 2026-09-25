@@ -25,17 +25,21 @@ export function asset(id) {
   return a || { src: '', w: 1, h: 1 };
 }
 
+/** Entries exported without AVIF (no encoder available) fall back to WebP. */
+const extOf = (a) => (a.avif === false ? 'webp' : ext);
+
 export const aspect = (id) => { const a = asset(id); return a.h / a.w; };
 export const isPhoto = (id) => asset(id).source === 'hf';
 
 export function srcset(id) {
   const a = asset(id);
-  return a.sm ? `${a.src}-sm.${ext} 640w, ${a.src}.${ext} ${a.w}w` : `${a.src}.${ext} ${a.w}w`;
+  const e = extOf(a);
+  return a.sm ? `${a.src}-sm.${e} 640w, ${a.src}.${e} ${a.w}w` : `${a.src}.${e} ${a.w}w`;
 }
 
 export function url(id, small = false) {
   const a = asset(id);
-  return `${a.src}${small && a.sm ? '-sm' : ''}.${ext}`;
+  return `${a.src}${small && a.sm ? '-sm' : ''}.${extOf(a)}`;
 }
 
 /** <img> for an asset. `sizes` should describe its rendered width. */

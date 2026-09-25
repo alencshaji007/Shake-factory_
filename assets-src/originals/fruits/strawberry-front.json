@@ -1,0 +1,13 @@
+{
+  "id": "strawberry-front",
+  "category": "fruits",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 1767612228,
+  "width": 1024,
+  "height": 1024,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "one perfect ripe red strawberry with fresh green leafy calyx, front view, glossy skin with golden seeds, tiny water droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

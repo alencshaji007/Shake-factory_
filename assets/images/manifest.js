@@ -331,11 +331,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "milk-splash": {
-   "src": "assets/images/standin/milk/milk-splash",
-   "w": 1200,
-   "h": 771,
+   "src": "assets/images/generated/milk/milk-splash",
+   "w": 1158,
+   "h": 830,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-stream": {
    "src": "assets/images/standin/milk/milk-stream",
@@ -471,11 +472,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "strawberry-front": {
-   "src": "assets/images/standin/fruits/strawberry-front",
-   "w": 964,
-   "h": 1213,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/strawberry-front",
+   "w": 769,
+   "h": 974,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-half": {
    "src": "assets/images/standin/slices/strawberry-half",

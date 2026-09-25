@@ -284,21 +284,36 @@ function waterSheet(d, pts, rand) {
 export function waterSplashCrown({ seed = 121 } = {}) {
   const rand = rng(seed);
   const d = new Doc(1200, 900);
-  const cx = 600, base = 700, rx = 430;
+  const cx = 600, base = 700, rx = 400;
+  const spikes = 18;
   const top = [];
-  for (let i = 0; i <= 28; i++) {
-    const t = i / 28, x = cx - rx + t * rx * 2;
-    const arc = Math.sqrt(Math.max(0, 1 - ((x - cx) / rx) ** 2));
-    top.push([x, base - 30 * arc - (i % 2 ? rand.range(200, 380) * (0.5 + 0.5 * arc) : rand.range(70, 140))]);
+  for (let i = 0; i <= spikes * 2; i++) {
+    const t = i / (spikes * 2), x0 = cx - rx + t * rx * 2;
+    const arc = Math.sqrt(Math.max(0, 1 - ((x0 - cx) / rx) ** 2));
+    const tip = i % 2 === 1;
+    const h = tip ? rand.range(150, 300) * (0.45 + 0.55 * arc) : rand.range(40, 90) * (0.5 + 0.5 * arc);
+    const lean = tip ? (x0 - cx) * 0.22 : 0; // spikes lean outward like a real crown
+    top.push([x0 + lean, base - 26 * arc - h]);
   }
   const bottom = [];
-  for (let i = 16; i >= 0; i--) { const x = cx - rx + (i / 16) * rx * 2; bottom.push([x, base + 40 * Math.sqrt(Math.max(0, 1 - ((x - cx) / rx) ** 2))]); }
-  const gp = uid('g');
-  d.def(radial(gp, [[0, '#dff1ff', 0.35], [1, '#9cc8e8', 0]]));
-  d.add(`<ellipse cx="${cx}" cy="${base + 40}" rx="${rx + 160}" ry="90" fill="url(#${gp})"/>`);
-  waterSheet(d, [...top, ...bottom], rand);
-  for (let i = 1; i < top.length; i += 2) d.use(airDrop(top[i][0], top[i][1] - rand.range(30, 90), rand.range(10, 26), { stretch: 1.2 }));
-  for (let i = 0; i < 40; i++) d.use(airDrop(rand.range(80, 1120), rand.range(40, 520), rand.range(4, 18), { stretch: rand.range(1, 1.4), rot: rand.range(-40, 40) }));
+  for (let i = 16; i >= 0; i--) { const x = cx - rx + (i / 16) * rx * 2; bottom.push([x, base + 36 * Math.sqrt(Math.max(0, 1 - ((x - cx) / rx) ** 2))]); }
+  const gp = uid('g'), gw = uid('g'), bl = uid('b');
+  d.def(radial(gp, [[0, '#dff1ff', 0.35], [1, '#9cc8e8', 0]]),
+    linear(gw, [[0, '#e9f6ff', 0.55], [0.18, '#cfe8fb', 0.14], [0.5, '#bcdcf2', 0.06], [0.82, '#cfe8fb', 0.14], [1, '#e9f6ff', 0.55]], { x1: 0, y1: 0, x2: 1, y2: 0 }),
+    blurFilter(bl, 2.5));
+  d.add(`<ellipse cx="${cx}" cy="${base + 36}" rx="${rx + 170}" ry="86" fill="url(#${gp})"/>`);
+  const wall = smoothPath([...top, ...bottom], true, 0.95);
+  d.add(`<path d="${wall}" fill="url(#${gw})"/>`);
+  d.add(`<path d="${smoothPath(top, false, 0.95)}" stroke="#fff" stroke-opacity=".8" stroke-width="4" fill="none" filter="url(#${bl})"/>`);
+  d.add(`<ellipse cx="${cx}" cy="${base}" rx="${rx}" ry="34" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="3" filter="url(#${bl})"/>`);
+  for (let i = 1; i < top.length; i += 2) {
+    const [x, y] = top[i];
+    d.use(airDrop(x + (x - cx) * 0.08, y - rand.range(24, 70), rand.range(8, 20), { stretch: 1.25, rot: (x - cx) * 0.05 }));
+  }
+  for (let i = 0; i < 46; i++) {
+    const a = rand.range(Math.PI * 1.05, Math.PI * 1.95), r = rand.range(320, 560);
+    d.use(airDrop(cx + Math.cos(a) * r * 1.1, base - 60 + Math.sin(a) * r * 0.9, rand.range(4, 16), { stretch: rand.range(1, 1.4), rot: (a * 180) / Math.PI + 90 }));
+  }
   return d;
 }
 

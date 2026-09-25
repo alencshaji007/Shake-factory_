@@ -28,7 +28,7 @@ export const PRODUCTS = [
     ingredients: ['Roasted pistachio paste', 'White chocolate', 'Crushed pistachios', 'Fresh milk'],
     color: '#2f4a1c', accent: '#cfe39a',
     float: ['pistachio', 'pistachio', 'nut-pieces', 'nuts-crushed', 'almond-sliced', 'pistachio'],
-    side: 'milk-wave'
+    side: 'nuts-scattered'
   },
   {
     id: 'mango-blast', name: 'Mango Blast', shake: 'shake-mango-blast', price: '7.90',
@@ -36,7 +36,7 @@ export const PRODUCTS = [
     ingredients: ['Alphonso mango', 'Passion fruit', 'Mango cubes', 'Vanilla ice cream'],
     color: '#8a4508', accent: '#ffd27a',
     float: ['mango-cube', 'mango-slice', 'mango-cube', 'pineapple-piece', 'mango-half', 'ice-cube'],
-    side: 'milk-splash'
+    side: 'mango-slice'
   },
   {
     id: 'nutty-caramel', name: 'Nutty Caramel', shake: 'shake-nutty-caramel', price: '8.50',

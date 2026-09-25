@@ -132,6 +132,7 @@
 .scroll-cue i::after { content: ''; position: absolute; inset: 0; background: var(--offwhite); animation: cue 1.8s var(--ease) infinite; }
 @keyframes cue { 0% { transform: translateY(-100%); } 60%, 100% { transform: translateY(100%); } }
 @media (max-width: 640px) {
+  .brand { top: 30%; }
   .story__ui { grid-template-columns: 1fr; gap: 10px; }
   .scroll-cue { display: none; }
 }
@@ -278,7 +279,10 @@
 .is-static .cover, .is-static .slash, .is-static .story__ui, .is-static .jar, .is-static .hero__water { display: none; }
 .is-static .hero__glow, .is-static .reveal__beam { opacity: 1; }
 .is-static-site .products__stage { height: auto; overflow: visible; }
-.is-static-site .product--static { position: relative; visibility: visible; min-height: 100vh; }
+.is-static-site .products__slides { position: relative; }
+.is-static-site .products__nav { display: none; }
+.is-static-site .product--static { position: relative; visibility: visible; min-height: 100vh; min-height: 100svh; }
+.is-static-site .reel__screen .ing { opacity: 0.55; }
 .is-static-site .signature__splash { display: none; }
 .is-static-site .reel__line { opacity: 1; }
 .is-static-site .finale__product, .is-static-site .finale__ctas .btn { opacity: 1; }

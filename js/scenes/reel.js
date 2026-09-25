@@ -207,9 +207,10 @@ export function buildReel(section) {
     .fromTo(charsB, { yPercent: 110, opacity: 0 }, { yPercent: 0, opacity: 1, duration: 0.08, stagger: 0.006, ease: 'expo.out' }, 0.52)
     .to(lineB, { opacity: 0, y: -vh(6), duration: 0.06 }, 0.72);
   splashes.forEach((l, i) => {
-    tl.fromTo(l.m, { scale: 0.2, opacity: 0 }, { scale: 3.2 + i, opacity: 1, y: -vh(20), duration: 0.18, ease: 'power2.in' }, 0.78 + i * 0.02);
+    tl.fromTo(l.m, { scale: 0.2, opacity: 0 }, { scale: 3.2 + i, opacity: 1, y: -vh(20), duration: 0.2, ease: 'power2.in' }, 0.74 + i * 0.02);
   });
-  tl.fromTo(outro, { clipPath: 'circle(0% at 50% 100%)' }, { clipPath: 'circle(150% at 50% 100%)', duration: 0.14, ease: 'power2.in' }, 0.86);
+  tl.fromTo(outro, { clipPath: 'circle(0% at 50% 100%)' }, { clipPath: 'circle(150% at 50% 100%)', duration: 0.16, ease: 'power2.in' }, 0.78)
+    .to({}, { duration: 0.06 }, 0.94);
 
   ScrollTrigger.create({
     trigger: viewport,

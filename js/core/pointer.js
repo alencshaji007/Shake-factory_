@@ -30,7 +30,8 @@ export function tilt(el, { rx = 9, ry = 14, move = 16, scale = 0.025, isActive =
     ry: gsap.quickTo(el, 'rotationY', { duration: 0.9, ease: 'power3' }),
     x: gsap.quickTo(el, 'x', { duration: 1.1, ease: 'power3' }),
     y: gsap.quickTo(el, 'y', { duration: 1.1, ease: 'power3' }),
-    s: gsap.quickTo(el, 'scale', { duration: 1.1, ease: 'power3' })
+    sx: gsap.quickTo(el, 'scaleX', { duration: 1.1, ease: 'power3' }),
+    sy: gsap.quickTo(el, 'scaleY', { duration: 1.1, ease: 'power3' })
   };
   const tick = () => {
     if (!isActive()) return;
@@ -38,7 +39,9 @@ export function tilt(el, { rx = 9, ry = 14, move = 16, scale = 0.025, isActive =
     set.rx(-pointer.y * rx);
     set.x(pointer.x * move);
     set.y(pointer.y * move * 0.6);
-    set.s(1 + (Math.abs(pointer.x) + Math.abs(pointer.y)) * scale * 0.5);
+    const s = 1 + (Math.abs(pointer.x) + Math.abs(pointer.y)) * scale * 0.5;
+    set.sx(s);
+    set.sy(s);
   };
   gsap.ticker.add(tick);
   return () => gsap.ticker.remove(tick);

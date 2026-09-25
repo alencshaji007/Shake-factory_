@@ -40,6 +40,8 @@ const FLIGHTS = {
   ]
 };
 
+const SCOPE = { products: '.products__intro' };
+
 export function buildDrift() {
   const back = new DepthScene(document.querySelector('.drift--back'), { pointer: 1.3 });
   const front = new DepthScene(document.querySelector('.drift--front'), { pointer: 2 });
@@ -52,6 +54,8 @@ export function buildDrift() {
   for (const section of document.querySelectorAll('[data-drift]')) {
     const flights = FLIGHTS[section.dataset.drift];
     if (!flights) continue;
+    // some sections scope their flights to one part (e.g. products → its intro)
+    const trigger = section.querySelector(SCOPE[section.dataset.drift]) || section;
     const list = flights.slice(0, Math.max(2, env.count(flights.length)));
     const tl = gsap.timeline({ defaults: { ease: 'none' } });
     for (const [id, layer, depth, from, to, extra] of list) {
@@ -72,7 +76,7 @@ export function buildDrift() {
       }
     }
     ScrollTrigger.create({
-      trigger: section,
+      trigger,
       start: 'top bottom',
       end: 'bottom top',
       scrub: 1.2,

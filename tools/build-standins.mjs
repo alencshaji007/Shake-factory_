@@ -10,7 +10,6 @@
  *   node tools/build-standins.mjs --only cookie-whole,ice-cube
  *   node tools/build-standins.mjs --preview out.png [--only …]   # contact sheet only
  */
-import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
 import { ASSETS } from './assets.config.mjs';
@@ -28,7 +27,7 @@ if (missing.length) console.warn(`! no stand-in renderer for: ${missing.map((a) 
 
 async function rasterise(a) {
   const svg = String(RENDERERS[a.id]());
-  const png = await sharp(Buffer.from(svg), { density: 72 }).png().toBuffer();
+  const png = await sharp(Buffer.from(svg), { density: opts.preview ? 72 : 108 }).png().toBuffer(); // 1.5× for crisp close-ups
   const trimmed = await sharp(png).trim({ threshold: 1 }).png().toBuffer();
   const { width, height } = await sharp(trimmed).metadata();
   const pad = Math.round(Math.max(width, height) * 0.03);
@@ -61,4 +60,3 @@ for (const a of list) {
 }
 writeManifest(manifest);
 console.log(`\n✔ ${n} stand-ins registered (${list.length - n} kept as photographs or skipped)`);
-fs.existsSync(STANDIN_DIR);

@@ -64,8 +64,8 @@ export function buildReveal(stage, { covers }) {
     .fromTo(sweep, { backgroundPosition: '160% 0' }, { backgroundPosition: '-60% 0', duration: 1.4, ease: 'power1.inOut' }, T(16.5));
 
   // 18–20: pull back, brand
-  tl.to(shake.m, { rotationY: 0, y: -vh(2), duration: 1.2, ease: 'sine.inOut' }, T(18))
-    .to(cam, { zoom: 0.74, x: 0, duration: 1.6, ease: 'power2.inOut' }, T(18))
+  tl.to(shake.m, { rotationY: 0, y: env.mobile ? vh(12) : -vh(2), duration: 1.2, ease: 'sine.inOut' }, T(18))
+    .to(cam, { zoom: env.mobile ? 0.66 : 0.74, x: 0, duration: 1.6, ease: 'power2.inOut' }, T(18))
     .fromTo(chars, { yPercent: 110, rotationX: -70, opacity: 0 }, { yPercent: 0, rotationX: 0, opacity: 1, duration: 0.7, stagger: 0.04, ease: 'expo.out' }, T(18.2))
     .fromTo(tag, { opacity: 0, y: vh(3), letterSpacing: '0.3em' }, { opacity: 1, y: 0, letterSpacing: '0em', duration: 0.6, ease: 'power3.out' }, T(19))
     .to({}, { duration: 0.4 }, T(19.6));

@@ -3,65 +3,65 @@ window.SF_MANIFEST = {
  "assets": {
   "almond": {
    "src": "assets/images/standin/nuts/almond",
-   "w": 484,
-   "h": 604,
+   "w": 724,
+   "h": 906,
    "sm": false,
    "source": "standin"
   },
   "almond-sliced": {
    "src": "assets/images/standin/nuts/almond-sliced",
-   "w": 756,
-   "h": 463,
-   "sm": false,
+   "w": 1133,
+   "h": 696,
+   "sm": true,
    "source": "standin"
   },
   "banana-piece": {
    "src": "assets/images/standin/slices/banana-piece",
-   "w": 534,
-   "h": 665,
+   "w": 800,
+   "h": 995,
    "sm": false,
    "source": "standin"
   },
   "banana-side": {
    "src": "assets/images/standin/fruits/banana-side",
-   "w": 1093,
-   "h": 517,
+   "w": 1200,
+   "h": 567,
    "sm": true,
    "source": "standin"
   },
   "banana-slice": {
    "src": "assets/images/standin/slices/banana-slice",
-   "w": 641,
-   "h": 597,
-   "sm": false,
+   "w": 962,
+   "h": 896,
+   "sm": true,
    "source": "standin"
   },
   "banana-whole": {
    "src": "assets/images/standin/fruits/banana-whole",
-   "w": 1082,
-   "h": 551,
+   "w": 1200,
+   "h": 610,
    "sm": true,
    "source": "standin"
   },
   "blueberry-closeup": {
    "src": "assets/images/standin/fruits/blueberry-closeup",
-   "w": 788,
-   "h": 579,
-   "sm": false,
+   "w": 1185,
+   "h": 870,
+   "sm": true,
    "source": "standin"
   },
   "blueberry-group": {
    "src": "assets/images/standin/fruits/blueberry-group",
-   "w": 713,
-   "h": 623,
-   "sm": false,
+   "w": 1069,
+   "h": 936,
+   "sm": true,
    "source": "standin"
   },
   "blueberry-single": {
    "src": "assets/images/standin/fruits/blueberry-single",
-   "w": 631,
-   "h": 652,
-   "sm": false,
+   "w": 948,
+   "h": 979,
+   "sm": true,
    "source": "standin"
   },
   "caramel-drizzle": {
@@ -73,30 +73,30 @@ window.SF_MANIFEST = {
   },
   "cashew": {
    "src": "assets/images/standin/nuts/cashew",
-   "w": 621,
-   "h": 590,
-   "sm": false,
+   "w": 930,
+   "h": 882,
+   "sm": true,
    "source": "standin"
   },
   "chocolate-chunk": {
    "src": "assets/images/standin/chocolate/chocolate-chunk",
-   "w": 546,
-   "h": 663,
-   "sm": false,
+   "w": 816,
+   "h": 994,
+   "sm": true,
    "source": "standin"
   },
   "chocolate-crumbs": {
    "src": "assets/images/standin/chocolate/chocolate-crumbs",
-   "w": 1056,
-   "h": 480,
+   "w": 1200,
+   "h": 545,
    "sm": true,
    "source": "standin"
   },
   "chocolate-dark-piece": {
    "src": "assets/images/standin/chocolate/chocolate-dark-piece",
-   "w": 666,
-   "h": 695,
-   "sm": false,
+   "w": 992,
+   "h": 1040,
+   "sm": true,
    "source": "standin"
   },
   "chocolate-drizzle": {
@@ -108,267 +108,267 @@ window.SF_MANIFEST = {
   },
   "chocolate-milk-piece": {
    "src": "assets/images/standin/chocolate/chocolate-milk-piece",
-   "w": 664,
-   "h": 652,
-   "sm": false,
+   "w": 990,
+   "h": 978,
+   "sm": true,
    "source": "standin"
   },
   "chocolate-shavings": {
    "src": "assets/images/standin/chocolate/chocolate-shavings",
-   "w": 720,
-   "h": 498,
-   "sm": false,
+   "w": 1081,
+   "h": 749,
+   "sm": true,
    "source": "standin"
   },
   "cookie-chunks": {
    "src": "assets/images/standin/cookies/cookie-chunks",
-   "w": 1055,
-   "h": 515,
+   "w": 1200,
+   "h": 586,
    "sm": true,
    "source": "standin"
   },
   "cookie-crumbs": {
    "src": "assets/images/standin/cookies/cookie-crumbs",
-   "w": 1105,
-   "h": 456,
+   "w": 1200,
+   "h": 496,
    "sm": true,
    "source": "standin"
   },
   "cookie-half": {
    "src": "assets/images/standin/cookies/cookie-half",
-   "w": 531,
-   "h": 859,
+   "w": 798,
+   "h": 1291,
    "sm": false,
    "source": "standin"
   },
   "cookie-piece": {
    "src": "assets/images/standin/cookies/cookie-piece",
-   "w": 455,
-   "h": 560,
+   "w": 682,
+   "h": 840,
    "sm": false,
    "source": "standin"
   },
   "cookie-whole": {
    "src": "assets/images/standin/cookies/cookie-whole",
-   "w": 871,
-   "h": 903,
+   "w": 1200,
+   "h": 1241,
    "sm": true,
    "source": "standin"
   },
   "cream-droplets": {
    "src": "assets/images/standin/cream/cream-droplets",
-   "w": 748,
-   "h": 673,
-   "sm": false,
+   "w": 1123,
+   "h": 1009,
+   "sm": true,
    "source": "standin"
   },
   "cream-peak": {
    "src": "assets/images/standin/cream/cream-peak",
-   "w": 558,
-   "h": 393,
-   "sm": false,
+   "w": 836,
+   "h": 590,
+   "sm": true,
    "source": "standin"
   },
   "cream-swirl": {
    "src": "assets/images/standin/cream/cream-swirl",
-   "w": 706,
-   "h": 453,
-   "sm": false,
+   "w": 1060,
+   "h": 679,
+   "sm": true,
    "source": "standin"
   },
   "cream-topping": {
    "src": "assets/images/standin/cream/cream-topping",
-   "w": 1028,
-   "h": 667,
+   "w": 1200,
+   "h": 781,
    "sm": true,
    "source": "standin"
   },
   "hazelnut": {
    "src": "assets/images/standin/nuts/hazelnut",
-   "w": 658,
-   "h": 705,
-   "sm": false,
+   "w": 986,
+   "h": 1057,
+   "sm": true,
    "source": "standin"
   },
   "ice-crushed": {
    "src": "assets/images/standin/ice/ice-crushed",
-   "w": 854,
-   "h": 487,
+   "w": 1200,
+   "h": 684,
    "sm": true,
    "source": "standin"
   },
   "ice-cube": {
    "src": "assets/images/standin/ice/ice-cube",
-   "w": 605,
-   "h": 633,
-   "sm": false,
+   "w": 907,
+   "h": 949,
+   "sm": true,
    "source": "standin"
   },
   "ice-cube-group": {
    "src": "assets/images/standin/ice/ice-cube-group",
-   "w": 775,
-   "h": 734,
-   "sm": false,
+   "w": 1164,
+   "h": 1101,
+   "sm": true,
    "source": "standin"
   },
   "ice-droplets": {
    "src": "assets/images/standin/ice/ice-droplets",
-   "w": 733,
-   "h": 724,
-   "sm": false,
+   "w": 1099,
+   "h": 1085,
+   "sm": true,
    "source": "standin"
   },
   "ice-melting": {
    "src": "assets/images/standin/ice/ice-melting",
-   "w": 633,
-   "h": 667,
-   "sm": false,
+   "w": 949,
+   "h": 999,
+   "sm": true,
    "source": "standin"
   },
   "jar-empty": {
    "src": "assets/images/standin/jar/jar-empty",
-   "w": 690,
-   "h": 1116,
-   "sm": false,
+   "w": 1032,
+   "h": 1672,
+   "sm": true,
    "source": "standin"
   },
   "jar-front": {
    "src": "assets/images/standin/jar/jar-front",
-   "w": 694,
-   "h": 1193,
-   "sm": false,
+   "w": 1040,
+   "h": 1790,
+   "sm": true,
    "source": "standin"
   },
   "jar-side": {
    "src": "assets/images/standin/jar/jar-side",
-   "w": 769,
-   "h": 1193,
-   "sm": false,
+   "w": 1153,
+   "h": 1790,
+   "sm": true,
    "source": "standin"
   },
   "jar-top": {
    "src": "assets/images/standin/jar/jar-top",
-   "w": 812,
-   "h": 652,
+   "w": 1200,
+   "h": 964,
    "sm": true,
    "source": "standin"
   },
   "jar-with-fruit": {
    "src": "assets/images/standin/jar/jar-with-fruit",
-   "w": 690,
-   "h": 1116,
-   "sm": false,
+   "w": 1032,
+   "h": 1672,
+   "sm": true,
    "source": "standin"
   },
   "jar-with-milk": {
    "src": "assets/images/standin/jar/jar-with-milk",
-   "w": 690,
-   "h": 1116,
-   "sm": false,
+   "w": 1032,
+   "h": 1672,
+   "sm": true,
    "source": "standin"
   },
   "knife-chef": {
    "src": "assets/images/standin/props/knife-chef",
    "w": 1200,
-   "h": 262,
+   "h": 261,
    "sm": true,
    "source": "standin"
   },
   "mango-cube": {
    "src": "assets/images/standin/slices/mango-cube",
-   "w": 542,
-   "h": 584,
-   "sm": false,
+   "w": 808,
+   "h": 874,
+   "sm": true,
    "source": "standin"
   },
   "mango-cut": {
    "src": "assets/images/standin/slices/mango-cut",
-   "w": 771,
-   "h": 635,
-   "sm": false,
+   "w": 1157,
+   "h": 951,
+   "sm": true,
    "source": "standin"
   },
   "mango-half": {
    "src": "assets/images/standin/slices/mango-half",
-   "w": 779,
-   "h": 680,
-   "sm": false,
+   "w": 1167,
+   "h": 1019,
+   "sm": true,
    "source": "standin"
   },
   "mango-slice": {
    "src": "assets/images/standin/slices/mango-slice",
-   "w": 1064,
-   "h": 366,
+   "w": 1200,
+   "h": 413,
    "sm": true,
    "source": "standin"
   },
   "mango-whole": {
    "src": "assets/images/standin/fruits/mango-whole",
-   "w": 685,
-   "h": 836,
-   "sm": false,
+   "w": 1025,
+   "h": 1251,
+   "sm": true,
    "source": "standin"
   },
   "milk-bubbles": {
    "src": "assets/images/standin/milk/milk-bubbles",
-   "w": 572,
-   "h": 398,
-   "sm": false,
+   "w": 857,
+   "h": 597,
+   "sm": true,
    "source": "standin"
   },
   "milk-droplets": {
    "src": "assets/images/standin/milk/milk-droplets",
-   "w": 1087,
-   "h": 738,
+   "w": 1200,
+   "h": 814,
    "sm": true,
    "source": "standin"
   },
   "milk-foam": {
    "src": "assets/images/standin/milk/milk-foam",
-   "w": 1114,
-   "h": 494,
+   "w": 1200,
+   "h": 532,
    "sm": true,
    "source": "standin"
   },
   "milk-splash": {
    "src": "assets/images/standin/milk/milk-splash",
-   "w": 1188,
-   "h": 764,
+   "w": 1200,
+   "h": 771,
    "sm": true,
    "source": "standin"
   },
   "milk-stream": {
    "src": "assets/images/standin/milk/milk-stream",
-   "w": 273,
-   "h": 1479,
+   "w": 409,
+   "h": 2219,
    "sm": false,
    "source": "standin"
   },
   "milk-wave": {
    "src": "assets/images/standin/milk/milk-wave",
    "w": 1200,
-   "h": 591,
+   "h": 592,
    "sm": true,
    "source": "standin"
   },
   "nut-group-small": {
    "src": "assets/images/standin/nuts/nut-group-small",
-   "w": 702,
-   "h": 565,
-   "sm": false,
+   "w": 1053,
+   "h": 846,
+   "sm": true,
    "source": "standin"
   },
   "nut-pieces": {
    "src": "assets/images/standin/nuts/nut-pieces",
-   "w": 606,
-   "h": 350,
-   "sm": false,
+   "w": 910,
+   "h": 527,
+   "sm": true,
    "source": "standin"
   },
   "nuts-crushed": {
    "src": "assets/images/standin/nuts/nuts-crushed",
-   "w": 852,
-   "h": 530,
+   "w": 1200,
+   "h": 745,
    "sm": true,
    "source": "standin"
   },
@@ -381,148 +381,148 @@ window.SF_MANIFEST = {
   },
   "pineapple-piece": {
    "src": "assets/images/standin/slices/pineapple-piece",
-   "w": 658,
-   "h": 525,
-   "sm": false,
+   "w": 982,
+   "h": 785,
+   "sm": true,
    "source": "standin"
   },
   "pineapple-slice": {
    "src": "assets/images/standin/slices/pineapple-slice",
-   "w": 764,
-   "h": 728,
-   "sm": false,
+   "w": 1144,
+   "h": 1090,
+   "sm": true,
    "source": "standin"
   },
   "pistachio": {
    "src": "assets/images/standin/nuts/pistachio",
-   "w": 606,
-   "h": 792,
-   "sm": false,
+   "w": 911,
+   "h": 1190,
+   "sm": true,
    "source": "standin"
   },
   "raspberry-group": {
    "src": "assets/images/standin/fruits/raspberry-group",
-   "w": 747,
-   "h": 531,
-   "sm": false,
+   "w": 1120,
+   "h": 796,
+   "sm": true,
    "source": "standin"
   },
   "raspberry-single": {
    "src": "assets/images/standin/fruits/raspberry-single",
-   "w": 577,
-   "h": 498,
-   "sm": false,
+   "w": 867,
+   "h": 747,
+   "sm": true,
    "source": "standin"
   },
   "shake-choco-overload": {
    "src": "assets/images/standin/shakes/shake-choco-overload",
-   "w": 610,
-   "h": 1390,
-   "sm": false,
+   "w": 916,
+   "h": 2087,
+   "sm": true,
    "source": "standin"
   },
   "shake-cookie-monster": {
    "src": "assets/images/standin/shakes/shake-cookie-monster",
-   "w": 570,
-   "h": 1437,
-   "sm": false,
+   "w": 854,
+   "h": 2155,
+   "sm": true,
    "source": "standin"
   },
   "shake-mango-blast": {
    "src": "assets/images/standin/shakes/shake-mango-blast",
-   "w": 648,
-   "h": 1410,
-   "sm": false,
+   "w": 972,
+   "h": 2115,
+   "sm": true,
    "source": "standin"
   },
   "shake-nutty-caramel": {
    "src": "assets/images/standin/shakes/shake-nutty-caramel",
-   "w": 660,
-   "h": 1223,
-   "sm": false,
+   "w": 988,
+   "h": 1834,
+   "sm": true,
    "source": "standin"
   },
   "shake-pistachio-dream": {
    "src": "assets/images/standin/shakes/shake-pistachio-dream",
-   "w": 566,
-   "h": 1204,
-   "sm": false,
+   "w": 848,
+   "h": 1804,
+   "sm": true,
    "source": "standin"
   },
   "shake-strawberry-cloud": {
    "src": "assets/images/standin/shakes/shake-strawberry-cloud",
-   "w": 648,
-   "h": 1434,
-   "sm": false,
+   "w": 970,
+   "h": 2151,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-closeup": {
    "src": "assets/images/standin/fruits/strawberry-closeup",
-   "w": 642,
-   "h": 790,
-   "sm": false,
+   "w": 964,
+   "h": 1186,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-cut": {
    "src": "assets/images/standin/slices/strawberry-cut",
-   "w": 984,
-   "h": 726,
+   "w": 1200,
+   "h": 886,
    "sm": true,
    "source": "standin"
   },
   "strawberry-front": {
    "src": "assets/images/standin/fruits/strawberry-front",
-   "w": 644,
-   "h": 809,
-   "sm": false,
+   "w": 964,
+   "h": 1213,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-half": {
    "src": "assets/images/standin/slices/strawberry-half",
-   "w": 651,
-   "h": 807,
-   "sm": false,
+   "w": 976,
+   "h": 1208,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-side": {
    "src": "assets/images/standin/fruits/strawberry-side",
-   "w": 669,
-   "h": 594,
-   "sm": false,
+   "w": 1002,
+   "h": 890,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-slice": {
    "src": "assets/images/standin/slices/strawberry-slice",
-   "w": 721,
-   "h": 703,
-   "sm": false,
+   "w": 1083,
+   "h": 1057,
+   "sm": true,
    "source": "standin"
   },
   "strawberry-small-piece": {
    "src": "assets/images/standin/slices/strawberry-small-piece",
-   "w": 465,
-   "h": 416,
+   "w": 697,
+   "h": 625,
    "sm": false,
    "source": "standin"
   },
   "water-droplets": {
    "src": "assets/images/standin/splash/water-droplets",
-   "w": 1162,
-   "h": 786,
+   "w": 1200,
+   "h": 811,
    "sm": true,
    "source": "standin"
   },
   "water-splash-crown": {
    "src": "assets/images/standin/splash/water-splash-crown",
    "w": 1200,
-   "h": 854,
+   "h": 738,
    "sm": true,
    "source": "standin"
   },
   "water-splash-wide": {
    "src": "assets/images/standin/splash/water-splash-wide",
    "w": 1200,
-   "h": 689,
+   "h": 690,
    "sm": true,
    "source": "standin"
   }

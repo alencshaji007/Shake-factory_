@@ -1,0 +1,12 @@
+{
+  "id": "mango-slice",
+  "source": "user-supplied photo",
+  "file": "1.jpg",
+  "crop": [
+    1105,
+    1475,
+    760,
+    480
+  ],
+  "cutout": "chroma key (baked-in checkerboard)"
+}

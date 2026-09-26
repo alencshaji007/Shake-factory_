@@ -2,11 +2,12 @@
 window.SF_MANIFEST = {
  "assets": {
   "almond": {
-   "src": "assets/images/standin/nuts/almond",
-   "w": 724,
-   "h": 906,
-   "sm": false,
-   "source": "standin"
+   "src": "assets/images/generated/nuts/almond",
+   "w": 1072,
+   "h": 1336,
+   "sm": true,
+   "source": "hf",
+   "avif": false
   },
   "almond-sliced": {
    "src": "assets/images/standin/nuts/almond-sliced",
@@ -285,25 +286,28 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "mango-cut": {
-   "src": "assets/images/standin/slices/mango-cut",
-   "w": 1157,
-   "h": 951,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/mango-cut",
+   "w": 685,
+   "h": 479,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "mango-half": {
-   "src": "assets/images/standin/slices/mango-half",
-   "w": 1167,
-   "h": 1019,
+   "src": "assets/images/generated/slices/mango-half",
+   "w": 879,
+   "h": 518,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "mango-slice": {
-   "src": "assets/images/standin/slices/mango-slice",
-   "w": 1200,
-   "h": 413,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/mango-slice",
+   "w": 731,
+   "h": 373,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "mango-whole": {
    "src": "assets/images/standin/fruits/mango-whole",
@@ -398,11 +402,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "pistachio": {
-   "src": "assets/images/standin/nuts/pistachio",
-   "w": 911,
-   "h": 1190,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/nuts/pistachio",
+   "w": 727,
+   "h": 823,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "raspberry-group": {
    "src": "assets/images/standin/fruits/raspberry-group",
@@ -427,11 +432,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "shake-cookie-monster": {
-   "src": "assets/images/standin/shakes/shake-cookie-monster",
-   "w": 854,
-   "h": 2155,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-cookie-monster",
+   "w": 384,
+   "h": 801,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-mango-blast": {
    "src": "assets/images/standin/shakes/shake-mango-blast",
@@ -455,11 +461,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "shake-strawberry-cloud": {
-   "src": "assets/images/standin/shakes/shake-strawberry-cloud",
-   "w": 970,
-   "h": 2151,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-strawberry-cloud",
+   "w": 417,
+   "h": 695,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-closeup": {
    "src": "assets/images/generated/fruits/strawberry-closeup",

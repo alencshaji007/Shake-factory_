@@ -1,0 +1,7 @@
+{
+  "id": "almond",
+  "source": "user-supplied photo",
+  "file": "2.jpg",
+  "crop": null,
+  "cutout": "chroma key (baked-in checkerboard)"
+}

@@ -4,9 +4,9 @@ A cinematic, scroll-driven 3D website for **Shake Factory**: a premium food comm
 
 Static site: **HTML5 + CSS3 + vanilla JavaScript (ES modules)** with **GSAP + ScrollTrigger**, **Lenis** and **Three.js**. No backend, no database, no build step.
 
-> **Asset status:** 8 of 75 assets are Hugging Face photographs (FLUX.1-Krea-dev): strawberry front/side/close-up, blueberry single/group/close-up, raspberry single and milk splash. The rest are still locally rendered **stand-ins** under the exact file names the photographs will use. Run the pipeline below (it skips everything already generated), or generate the photos by hand from [`PROMPTS.md`](PROMPTS.md), and the photographs replace every stand-in automatically. No code changes are needed.
+> **Asset status:** 15 of 75 assets are photographs. From Hugging Face (FLUX.1-Krea-dev): strawberry front/side/close-up, blueberry single/group/close-up, raspberry single and milk splash. Supplied photos: mango half/cut/slice, almond, pistachio, and the Strawberry Cloud and Cookie Monster shakes. The rest are still locally rendered **stand-ins** under the exact file names the photographs will use. Run the pipeline below (it skips everything already generated), or generate the photos by hand from [`PROMPTS.md`](PROMPTS.md), and the photographs replace every stand-in automatically. No code changes are needed.
 >
-> The first 8 were exported where no AVIF encoder was available, so their manifest entries carry `avif: false` and the site serves them as WebP. `npm run assets:process` (with `sharp`) re-exports them with AVIF and clears the flag.
+> These were exported where no AVIF encoder was available, so their manifest entries carry `avif: false` and the site serves them as WebP. `npm run assets:process` (with `sharp`) re-exports them with AVIF and clears the flag.
 
 ---
 

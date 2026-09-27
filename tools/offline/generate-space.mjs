@@ -6,7 +6,8 @@ const { ASSETS, NEGATIVE, promptFor } = await import(ROOT + '/tools/assets.confi
 const S = 'https://black-forest-labs-flux-1-krea-dev.hf.space', STEPS = 28, GUIDANCE = 4.5;
 const only = process.argv[2] ? process.argv[2].split(',') : null;
 const have = (a) => fs.existsSync(`${ROOT}/assets-src/originals/${a.category}/${a.id}.png`) || fs.existsSync(`${RAW}/${a.id}.webp`);
-const todo = ASSETS.filter((a) => (!only || only.includes(a.id)) && !have(a));
+// ids given on the command line are generated in that order
+const todo = (only ? only.map((id) => ASSETS.find((a) => a.id === id)).filter(Boolean) : ASSETS).filter((a) => !have(a));
 console.log(`${todo.length} to generate`);
 let fails = 0;
 for (const a of todo) {

@@ -237,18 +237,20 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "jar-front": {
-   "src": "assets/images/standin/jar/jar-front",
-   "w": 1040,
-   "h": 1790,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/jar/jar-front",
+   "w": 699,
+   "h": 1056,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "jar-side": {
-   "src": "assets/images/standin/jar/jar-side",
-   "w": 1153,
-   "h": 1790,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/jar/jar-side",
+   "w": 677,
+   "h": 989,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "jar-top": {
    "src": "assets/images/standin/jar/jar-top",
@@ -425,11 +427,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "shake-choco-overload": {
-   "src": "assets/images/standin/shakes/shake-choco-overload",
-   "w": 916,
-   "h": 2087,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-choco-overload",
+   "w": 670,
+   "h": 1107,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-cookie-monster": {
    "src": "assets/images/generated/shakes/shake-cookie-monster",
@@ -440,11 +443,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "shake-mango-blast": {
-   "src": "assets/images/standin/shakes/shake-mango-blast",
-   "w": 972,
-   "h": 2115,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-mango-blast",
+   "w": 613,
+   "h": 1197,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-nutty-caramel": {
    "src": "assets/images/standin/shakes/shake-nutty-caramel",
@@ -454,11 +458,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "shake-pistachio-dream": {
-   "src": "assets/images/standin/shakes/shake-pistachio-dream",
-   "w": 848,
-   "h": 1804,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-pistachio-dream",
+   "w": 644,
+   "h": 1116,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-strawberry-cloud": {
    "src": "assets/images/generated/shakes/shake-strawberry-cloud",

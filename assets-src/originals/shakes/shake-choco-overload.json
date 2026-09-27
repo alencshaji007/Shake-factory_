@@ -1,0 +1,13 @@
+{
+  "id": "shake-choco-overload",
+  "category": "shakes",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 1295581368,
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "thick dark chocolate milkshake in a tall fluted glass, chocolate drizzle running down the inside, whipped cream, brownie chunk and chocolate shavings on top, condensation droplets, paper straw, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

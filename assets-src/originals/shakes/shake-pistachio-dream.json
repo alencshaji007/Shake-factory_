@@ -1,0 +1,13 @@
+{
+  "id": "shake-pistachio-dream",
+  "category": "shakes",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 90371373,
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "thick pale green pistachio milkshake in a stemmed tulip glass, whipped cream, crushed pistachios, white chocolate curls, condensation droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

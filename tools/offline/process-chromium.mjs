@@ -85,9 +85,10 @@ await page.evaluate(() => {
           }
         }
       }
-      // trim (alpha > 2) + 3% pad
+      // trim + 3% pad; a faint contact-shadow haze must not inflate the box
+      const trimAlpha = shadow ? 28 : 2;
       let x0 = W, y0 = H, x1 = -1, y1 = -1;
-      for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) if (o[(y * W + x) * 4 + 3] > 2) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
+      for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) if (o[(y * W + x) * 4 + 3] > trimAlpha) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
       if (x1 < 0) { x0 = 0; y0 = 0; x1 = W - 1; y1 = H - 1; }
       const tw = x1 - x0 + 1, th = y1 - y0 + 1, pad = Math.round(Math.max(tw, th) * 0.03);
       const keyed = canvasOf(W, H); keyed.getContext('2d').putImageData(out, 0, 0);

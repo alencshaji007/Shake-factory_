@@ -24,11 +24,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "banana-side": {
-   "src": "assets/images/standin/fruits/banana-side",
-   "w": 1200,
-   "h": 567,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/banana-side",
+   "w": 777,
+   "h": 665,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "banana-slice": {
    "src": "assets/images/standin/slices/banana-slice",
@@ -230,11 +231,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "jar-empty": {
-   "src": "assets/images/standin/jar/jar-empty",
-   "w": 1032,
-   "h": 1672,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/jar/jar-empty",
+   "w": 530,
+   "h": 669,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "jar-front": {
    "src": "assets/images/generated/jar/jar-front",
@@ -260,11 +262,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "jar-with-fruit": {
-   "src": "assets/images/standin/jar/jar-with-fruit",
-   "w": 1032,
-   "h": 1672,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/jar/jar-with-fruit",
+   "w": 718,
+   "h": 1014,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "jar-with-milk": {
    "src": "assets/images/standin/jar/jar-with-milk",
@@ -312,11 +315,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "mango-whole": {
-   "src": "assets/images/standin/fruits/mango-whole",
-   "w": 1025,
-   "h": 1251,
+   "src": "assets/images/generated/fruits/mango-whole",
+   "w": 803,
+   "h": 793,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-bubbles": {
    "src": "assets/images/standin/milk/milk-bubbles",
@@ -412,11 +416,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "raspberry-group": {
-   "src": "assets/images/standin/fruits/raspberry-group",
-   "w": 1120,
-   "h": 796,
+   "src": "assets/images/generated/fruits/raspberry-group",
+   "w": 828,
+   "h": 741,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "raspberry-single": {
    "src": "assets/images/generated/fruits/raspberry-single",

@@ -487,11 +487,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "strawberry-cut": {
-   "src": "assets/images/standin/slices/strawberry-cut",
-   "w": 1200,
-   "h": 886,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/strawberry-cut",
+   "w": 585,
+   "h": 793,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-front": {
    "src": "assets/images/generated/fruits/strawberry-front",
@@ -502,11 +503,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "strawberry-half": {
-   "src": "assets/images/standin/slices/strawberry-half",
-   "w": 976,
-   "h": 1208,
+   "src": "assets/images/generated/slices/strawberry-half",
+   "w": 856,
+   "h": 817,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "strawberry-side": {
    "src": "assets/images/generated/fruits/strawberry-side",
@@ -517,18 +519,20 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "strawberry-slice": {
-   "src": "assets/images/standin/slices/strawberry-slice",
-   "w": 1083,
-   "h": 1057,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/strawberry-slice",
+   "w": 660,
+   "h": 670,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "strawberry-small-piece": {
-   "src": "assets/images/standin/slices/strawberry-small-piece",
-   "w": 697,
-   "h": 625,
+   "src": "assets/images/generated/slices/strawberry-small-piece",
+   "w": 632,
+   "h": 538,
    "sm": false,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "water-droplets": {
    "src": "assets/images/standin/splash/water-droplets",

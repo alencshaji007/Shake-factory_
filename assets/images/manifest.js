@@ -77,11 +77,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "cashew": {
-   "src": "assets/images/standin/nuts/cashew",
-   "w": 930,
-   "h": 882,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/nuts/cashew",
+   "w": 683,
+   "h": 583,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "chocolate-chunk": {
    "src": "assets/images/standin/chocolate/chocolate-chunk",
@@ -284,11 +285,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "mango-cube": {
-   "src": "assets/images/standin/slices/mango-cube",
-   "w": 808,
-   "h": 874,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/mango-cube",
+   "w": 741,
+   "h": 811,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "mango-cut": {
    "src": "assets/images/generated/slices/mango-cut",
@@ -394,18 +396,20 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "pineapple-piece": {
-   "src": "assets/images/standin/slices/pineapple-piece",
-   "w": 982,
-   "h": 785,
+   "src": "assets/images/generated/slices/pineapple-piece",
+   "w": 980,
+   "h": 719,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "pineapple-slice": {
-   "src": "assets/images/standin/slices/pineapple-slice",
-   "w": 1144,
-   "h": 1090,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/slices/pineapple-slice",
+   "w": 651,
+   "h": 740,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "pistachio": {
    "src": "assets/images/generated/nuts/pistachio",

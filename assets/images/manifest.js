@@ -85,11 +85,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "chocolate-chunk": {
-   "src": "assets/images/standin/chocolate/chocolate-chunk",
-   "w": 816,
-   "h": 994,
+   "src": "assets/images/generated/chocolate/chocolate-chunk",
+   "w": 1019,
+   "h": 839,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "chocolate-crumbs": {
    "src": "assets/images/standin/chocolate/chocolate-crumbs",
@@ -120,11 +121,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "chocolate-shavings": {
-   "src": "assets/images/standin/chocolate/chocolate-shavings",
-   "w": 1081,
-   "h": 749,
+   "src": "assets/images/generated/chocolate/chocolate-shavings",
+   "w": 804,
+   "h": 539,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "cookie-chunks": {
    "src": "assets/images/standin/cookies/cookie-chunks",
@@ -368,32 +370,36 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "nut-group-small": {
-   "src": "assets/images/standin/nuts/nut-group-small",
-   "w": 1053,
-   "h": 846,
+   "src": "assets/images/generated/nuts/nut-group-small",
+   "w": 988,
+   "h": 788,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "nut-pieces": {
-   "src": "assets/images/standin/nuts/nut-pieces",
-   "w": 910,
-   "h": 527,
+   "src": "assets/images/generated/nuts/nut-pieces",
+   "w": 913,
+   "h": 574,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "nuts-crushed": {
-   "src": "assets/images/standin/nuts/nuts-crushed",
-   "w": 1200,
-   "h": 745,
+   "src": "assets/images/generated/nuts/nuts-crushed",
+   "w": 1020,
+   "h": 1024,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "nuts-scattered": {
-   "src": "assets/images/standin/nuts/nuts-scattered",
-   "w": 1200,
-   "h": 615,
+   "src": "assets/images/generated/nuts/nuts-scattered",
+   "w": 1026,
+   "h": 573,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "pineapple-piece": {
    "src": "assets/images/generated/slices/pineapple-piece",

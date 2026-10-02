@@ -93,11 +93,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "chocolate-crumbs": {
-   "src": "assets/images/standin/chocolate/chocolate-crumbs",
-   "w": 1200,
-   "h": 545,
+   "src": "assets/images/generated/chocolate/chocolate-crumbs",
+   "w": 1196,
+   "h": 837,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "chocolate-dark-piece": {
    "src": "assets/images/standin/chocolate/chocolate-dark-piece",
@@ -107,11 +108,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "chocolate-drizzle": {
-   "src": "assets/images/standin/chocolate/chocolate-drizzle",
-   "w": 1200,
-   "h": 423,
+   "src": "assets/images/generated/chocolate/chocolate-drizzle",
+   "w": 1107,
+   "h": 670,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "chocolate-milk-piece": {
    "src": "assets/images/standin/chocolate/chocolate-milk-piece",
@@ -129,25 +131,28 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "cookie-chunks": {
-   "src": "assets/images/standin/cookies/cookie-chunks",
-   "w": 1200,
-   "h": 586,
+   "src": "assets/images/generated/cookies/cookie-chunks",
+   "w": 956,
+   "h": 925,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "cookie-crumbs": {
-   "src": "assets/images/standin/cookies/cookie-crumbs",
-   "w": 1200,
-   "h": 496,
+   "src": "assets/images/generated/cookies/cookie-crumbs",
+   "w": 1233,
+   "h": 819,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "cookie-half": {
-   "src": "assets/images/standin/cookies/cookie-half",
-   "w": 798,
-   "h": 1291,
-   "sm": false,
-   "source": "standin"
+   "src": "assets/images/generated/cookies/cookie-half",
+   "w": 848,
+   "h": 670,
+   "sm": true,
+   "source": "hf",
+   "avif": false
   },
   "cookie-piece": {
    "src": "assets/images/standin/cookies/cookie-piece",
@@ -157,11 +162,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "cookie-whole": {
-   "src": "assets/images/standin/cookies/cookie-whole",
-   "w": 1200,
-   "h": 1241,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/cookies/cookie-whole",
+   "w": 642,
+   "h": 677,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "cream-droplets": {
    "src": "assets/images/standin/cream/cream-droplets",

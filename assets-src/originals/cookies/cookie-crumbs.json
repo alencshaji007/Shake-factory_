@@ -1,0 +1,13 @@
+{
+  "id": "cookie-crumbs",
+  "category": "cookies",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 1441931385,
+  "width": 1216,
+  "height": 832,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "scattered golden cookie crumbs with tiny chocolate bits, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

@@ -205,11 +205,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "ice-crushed": {
-   "src": "assets/images/standin/ice/ice-crushed",
-   "w": 1200,
-   "h": 684,
+   "src": "assets/images/generated/ice/ice-crushed",
+   "w": 1044,
+   "h": 805,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "ice-cube": {
    "src": "assets/images/standin/ice/ice-cube",
@@ -226,18 +227,20 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "ice-droplets": {
-   "src": "assets/images/standin/ice/ice-droplets",
-   "w": 1099,
-   "h": 1085,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/ice/ice-droplets",
+   "w": 664,
+   "h": 692,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "ice-melting": {
-   "src": "assets/images/standin/ice/ice-melting",
-   "w": 949,
-   "h": 999,
+   "src": "assets/images/generated/ice/ice-melting",
+   "w": 870,
+   "h": 804,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "jar-empty": {
    "src": "assets/images/generated/jar/jar-empty",
@@ -340,11 +343,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "milk-droplets": {
-   "src": "assets/images/standin/milk/milk-droplets",
-   "w": 1200,
-   "h": 814,
+   "src": "assets/images/generated/milk/milk-droplets",
+   "w": 1268,
+   "h": 904,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-foam": {
    "src": "assets/images/standin/milk/milk-foam",

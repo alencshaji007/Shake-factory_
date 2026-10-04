@@ -25,14 +25,15 @@ await page.evaluate(() => {
     while (cur.width / 2 >= width) { const c = canvasOf(Math.round(cur.width / 2), Math.round(cur.height / 2)); const x = c.getContext('2d'); x.imageSmoothingQuality = 'high'; x.drawImage(cur, 0, 0, c.width, c.height); cur = c; }
     const c = canvasOf(width, Math.round((src.height * width) / src.width)); const x = c.getContext('2d'); x.imageSmoothingQuality = 'high'; x.drawImage(cur, 0, 0, c.width, c.height); return c;
   }
-  function backdropMask(px, W, H) {
+  function backdropMask(px, W, H, backdrop) {
     const N = W * H, lum = new Float32Array(N), chroma = new Float32Array(N);
     for (let p = 0, j = 0; p < N; p++, j += 4) { const r = px[j], g = px[j + 1], b = px[j + 2]; lum[p] = (r + g + b) / 3; chroma[p] = (Math.max(r, g, b) - Math.min(r, g, b)) / 255; }
     // 3x3 box blur of luminance to ignore compression noise
     const sm = new Float32Array(N);
     for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) { let t = 0, c = 0; for (let dy = -1; dy <= 1; dy++) for (let dx = -1; dx <= 1; dx++) { const xx = x + dx, yy = y + dy; if (xx >= 0 && yy >= 0 && xx < W && yy < H) { t += lum[yy * W + xx]; c++; } } sm[y * W + x] = t / c; }
     const bg = new Uint8Array(N), q = new Int32Array(N); let head = 0, tail = 0;
-    const ok = (p) => chroma[p] < 0.12;
+    // on black, only dark pixels can be backdrop (white cream/milk is neutral and smooth too)
+    const ok = backdrop === 'black' ? (p) => chroma[p] < 0.12 && lum[p] < 70 : (p) => chroma[p] < 0.12;
     const push = (p) => { if (!bg[p] && ok(p)) { bg[p] = 1; q[tail++] = p; } };
     for (let x = 0; x < W; x++) { push(x); push((H - 1) * W + x); }
     for (let y = 0; y < H; y++) { push(y * W); push(y * W + W - 1); }
@@ -73,7 +74,7 @@ await page.evaluate(() => {
         }
         // Backdrop region: smooth, near-neutral pixels connected to the border (catches floor shadows and
         // grey sweeps the plain key keeps). Removed with a feathered mask; the key still anti-aliases edges.
-        const bgm = backdropMask(original, W, H);
+        const bgm = backdropMask(original, W, H, backdrop);
         for (let j = 0, p = 0; j < o.length; j += 4, p++) o[j + 3] = Math.round(o[j + 3] * (1 - bgm[p]));
         if (shadow && backdrop === 'white') {
           for (let j = 0; j < o.length; j += 4) {

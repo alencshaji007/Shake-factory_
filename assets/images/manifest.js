@@ -184,11 +184,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "cream-swirl": {
-   "src": "assets/images/standin/cream/cream-swirl",
-   "w": 1060,
-   "h": 679,
+   "src": "assets/images/generated/cream/cream-swirl",
+   "w": 1086,
+   "h": 1061,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "cream-topping": {
    "src": "assets/images/standin/cream/cream-topping",
@@ -336,11 +337,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "milk-bubbles": {
-   "src": "assets/images/standin/milk/milk-bubbles",
-   "w": 857,
-   "h": 597,
+   "src": "assets/images/generated/milk/milk-bubbles",
+   "w": 879,
+   "h": 879,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-droplets": {
    "src": "assets/images/generated/milk/milk-droplets",
@@ -351,11 +353,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "milk-foam": {
-   "src": "assets/images/standin/milk/milk-foam",
-   "w": 1200,
-   "h": 532,
+   "src": "assets/images/generated/milk/milk-foam",
+   "w": 1288,
+   "h": 813,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-splash": {
    "src": "assets/images/generated/milk/milk-splash",
@@ -562,11 +565,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "water-splash-crown": {
-   "src": "assets/images/standin/splash/water-splash-crown",
-   "w": 1200,
-   "h": 738,
+   "src": "assets/images/generated/splash/water-splash-crown",
+   "w": 1288,
+   "h": 825,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "water-splash-wide": {
    "src": "assets/images/standin/splash/water-splash-wide",

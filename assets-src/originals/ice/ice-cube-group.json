@@ -1,0 +1,13 @@
+{
+  "id": "ice-cube-group",
+  "category": "ice",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 1230355349,
+  "width": 1024,
+  "height": 1024,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "three transparent ice cubes stacked, refractions, frost, backlit, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

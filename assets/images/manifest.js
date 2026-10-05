@@ -170,11 +170,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "cream-droplets": {
-   "src": "assets/images/standin/cream/cream-droplets",
-   "w": 1123,
-   "h": 1009,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/cream/cream-droplets",
+   "w": 798,
+   "h": 956,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "cream-peak": {
    "src": "assets/images/standin/cream/cream-peak",
@@ -221,11 +222,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "ice-cube-group": {
-   "src": "assets/images/standin/ice/ice-cube-group",
-   "w": 1164,
-   "h": 1101,
+   "src": "assets/images/generated/ice/ice-cube-group",
+   "w": 1086,
+   "h": 969,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "ice-droplets": {
    "src": "assets/images/generated/ice/ice-droplets",
@@ -558,11 +560,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "water-droplets": {
-   "src": "assets/images/standin/splash/water-droplets",
-   "w": 1200,
-   "h": 811,
+   "src": "assets/images/generated/splash/water-droplets",
+   "w": 808,
+   "h": 776,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "water-splash-crown": {
    "src": "assets/images/generated/splash/water-splash-crown",
@@ -573,11 +576,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "water-splash-wide": {
-   "src": "assets/images/standin/splash/water-splash-wide",
-   "w": 1200,
-   "h": 690,
+   "src": "assets/images/generated/splash/water-splash-wide",
+   "w": 1390,
+   "h": 718,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   }
  },
  "videos": {}

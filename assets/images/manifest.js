@@ -70,11 +70,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "caramel-drizzle": {
-   "src": "assets/images/standin/chocolate/caramel-drizzle",
-   "w": 1200,
-   "h": 380,
+   "src": "assets/images/generated/chocolate/caramel-drizzle",
+   "w": 895,
+   "h": 569,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "cashew": {
    "src": "assets/images/generated/nuts/cashew",
@@ -101,11 +102,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "chocolate-dark-piece": {
-   "src": "assets/images/standin/chocolate/chocolate-dark-piece",
-   "w": 992,
-   "h": 1040,
+   "src": "assets/images/generated/chocolate/chocolate-dark-piece",
+   "w": 1018,
+   "h": 932,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "chocolate-drizzle": {
    "src": "assets/images/generated/chocolate/chocolate-drizzle",
@@ -116,11 +118,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "chocolate-milk-piece": {
-   "src": "assets/images/standin/chocolate/chocolate-milk-piece",
-   "w": 990,
-   "h": 978,
+   "src": "assets/images/generated/chocolate/chocolate-milk-piece",
+   "w": 1011,
+   "h": 756,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "chocolate-shavings": {
    "src": "assets/images/generated/chocolate/chocolate-shavings",
@@ -155,11 +158,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "cookie-piece": {
-   "src": "assets/images/standin/cookies/cookie-piece",
-   "w": 682,
-   "h": 840,
-   "sm": false,
-   "source": "standin"
+   "src": "assets/images/generated/cookies/cookie-piece",
+   "w": 843,
+   "h": 730,
+   "sm": true,
+   "source": "hf",
+   "avif": false
   },
   "cookie-whole": {
    "src": "assets/images/generated/cookies/cookie-whole",

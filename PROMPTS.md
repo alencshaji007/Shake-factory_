@@ -19,7 +19,7 @@ Generated from `tools/assets.config.mjs` by `node tools/write-prompt-sheet.mjs`.
 - Size: 1024 × 1024
 
 ```text
-one perfect ripe red strawberry with fresh green leafy calyx, front view, glossy skin with golden seeds, tiny water droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one perfect ripe red strawberry with fresh green leafy calyx, front view, glossy skin with golden seeds, tiny water droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### strawberry-side
@@ -27,7 +27,7 @@ one perfect ripe red strawberry with fresh green leafy calyx, front view, glossy
 - Size: 1024 × 1024
 
 ```text
-one ripe red strawberry lying on its side, three-quarter side view, green calyx, glossy skin, golden seeds, fine water droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one ripe red strawberry lying on its side, three-quarter side view, green calyx, glossy skin, golden seeds, fine water droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### strawberry-closeup
@@ -35,7 +35,7 @@ one ripe red strawberry lying on its side, three-quarter side view, green calyx,
 - Size: 1024 × 1024
 
 ```text
-extreme macro close-up of one glossy ripe strawberry filling the frame, visible seed dimples, fine hairs and water droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+extreme macro close-up of one glossy ripe strawberry filling the frame, visible seed dimples, fine hairs and water droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### blueberry-single
@@ -43,7 +43,7 @@ extreme macro close-up of one glossy ripe strawberry filling the frame, visible 
 - Size: 1024 × 1024
 
 ```text
-one single fresh blueberry with natural dusty bloom and star-shaped crown, macro, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one single fresh blueberry with natural dusty bloom and star-shaped crown, macro, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### blueberry-group
@@ -51,7 +51,7 @@ one single fresh blueberry with natural dusty bloom and star-shaped crown, macro
 - Size: 1024 × 1024
 
 ```text
-small loose cluster of seven fresh blueberries with natural dusty bloom, a few water droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small loose cluster of seven fresh blueberries with natural dusty bloom, a few water droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### blueberry-closeup
@@ -59,7 +59,7 @@ small loose cluster of seven fresh blueberries with natural dusty bloom, a few w
 - Size: 1024 × 1024
 
 ```text
-extreme macro of two fresh blueberries, dusty waxy bloom, crown detail, droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+extreme macro of two fresh blueberries, dusty waxy bloom, crown detail, droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### raspberry-single
@@ -67,7 +67,7 @@ extreme macro of two fresh blueberries, dusty waxy bloom, crown detail, droplets
 - Size: 1024 × 1024
 
 ```text
-one single fresh red raspberry, plump drupelets, fine hairs, macro, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one single fresh red raspberry, plump drupelets, fine hairs, macro, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### raspberry-group
@@ -75,7 +75,7 @@ one single fresh red raspberry, plump drupelets, fine hairs, macro, isolated on 
 - Size: 1024 × 1024
 
 ```text
-small group of five fresh red raspberries, plump drupelets, natural variation, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small group of five fresh red raspberries, plump drupelets, natural variation, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### banana-whole
@@ -83,7 +83,7 @@ small group of five fresh red raspberries, plump drupelets, natural variation, i
 - Size: 1216 × 832
 
 ```text
-one whole ripe yellow banana, slight brown speckles, natural curve, three-quarter view, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole ripe yellow banana, slight brown speckles, natural curve, three-quarter view, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### banana-side
@@ -91,7 +91,7 @@ one whole ripe yellow banana, slight brown speckles, natural curve, three-quarte
 - Size: 1216 × 832
 
 ```text
-one ripe yellow banana, side profile, stem up, subtle ridges and speckles, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one ripe yellow banana, side profile, stem up, subtle ridges and speckles, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### mango-whole
@@ -99,7 +99,7 @@ one ripe yellow banana, side profile, stem up, subtle ridges and speckles, isola
 - Size: 1024 × 1024
 
 ```text
-one whole ripe Alphonso mango, red-orange blush fading to yellow-green, natural skin pores, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole ripe Alphonso mango, red-orange blush fading to yellow-green, natural skin pores, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## slices
@@ -109,7 +109,7 @@ one whole ripe Alphonso mango, red-orange blush fading to yellow-green, natural 
 - Size: 1024 × 1024
 
 ```text
-one ripe strawberry freshly cut lengthwise, both halves slightly apart, juicy pale-pink core and red flesh, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one ripe strawberry freshly cut lengthwise, both halves slightly apart, juicy pale-pink core and red flesh, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### strawberry-half
@@ -117,7 +117,7 @@ one ripe strawberry freshly cut lengthwise, both halves slightly apart, juicy pa
 - Size: 1024 × 1024
 
 ```text
-one strawberry half, cut face toward camera, juicy white-pink heart and red flesh, glistening juice, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one strawberry half, cut face toward camera, juicy white-pink heart and red flesh, glistening juice, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### strawberry-slice
@@ -125,7 +125,7 @@ one strawberry half, cut face toward camera, juicy white-pink heart and red fles
 - Size: 1024 × 1024
 
 ```text
-one thin round strawberry slice, translucent red flesh with white star pattern, glistening, backlit, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one thin round strawberry slice, translucent red flesh with white star pattern, glistening, backlit, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### strawberry-small-piece
@@ -133,7 +133,7 @@ one thin round strawberry slice, translucent red flesh with white star pattern, 
 - Size: 1024 × 1024
 
 ```text
-one small diced piece of strawberry, juicy red flesh, glistening, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one small diced piece of strawberry, juicy red flesh, glistening, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### banana-piece
@@ -141,7 +141,7 @@ one small diced piece of strawberry, juicy red flesh, glistening, isolated on a 
 - Size: 1024 × 1024
 
 ```text
-one thick chunk of peeled banana, creamy cut faces, soft seed dots in the centre, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one short thick cylindrical chunk of peeled banana, both flat cut ends visible, creamy ivory flesh, tiny faint seed specks in the centre, no peel, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### banana-slice
@@ -149,7 +149,7 @@ one thick chunk of peeled banana, creamy cut faces, soft seed dots in the centre
 - Size: 1024 × 1024
 
 ```text
-one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moist, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moist, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### mango-cut
@@ -157,7 +157,7 @@ one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moi
 - Size: 1024 × 1024
 
 ```text
-mango hedgehog cut, one half scored into cubes and pushed outward, vivid juicy orange flesh, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+mango hedgehog cut, one half scored into cubes and pushed outward, vivid juicy orange flesh, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### mango-half
@@ -165,7 +165,7 @@ mango hedgehog cut, one half scored into cubes and pushed outward, vivid juicy o
 - Size: 1024 × 1024
 
 ```text
-one mango cheek cut off, juicy glossy deep orange flesh facing camera, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one mango cheek cut off, juicy glossy deep orange flesh facing camera, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### mango-slice
@@ -173,7 +173,7 @@ one mango cheek cut off, juicy glossy deep orange flesh facing camera, isolated 
 - Size: 1216 × 832
 
 ```text
-one long juicy mango slice, curved, glossy deep orange flesh, skin edge, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one long juicy mango slice, curved, glossy deep orange flesh, skin edge, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### mango-cube
@@ -181,7 +181,7 @@ one long juicy mango slice, curved, glossy deep orange flesh, skin edge, isolate
 - Size: 1024 × 1024
 
 ```text
-one juicy cube of ripe mango flesh, glossy saturated orange, fibres visible, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one juicy cube of ripe mango flesh, glossy saturated orange, fibres visible, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### pineapple-piece
@@ -189,7 +189,7 @@ one juicy cube of ripe mango flesh, glossy saturated orange, fibres visible, iso
 - Size: 1024 × 1024
 
 ```text
-one juicy wedge of fresh pineapple, golden fibrous flesh, droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one juicy wedge of fresh pineapple, golden fibrous flesh, droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### pineapple-slice
@@ -197,7 +197,7 @@ one juicy wedge of fresh pineapple, golden fibrous flesh, droplets, isolated on 
 - Size: 1024 × 1024
 
 ```text
-one round slice of fresh pineapple with rind and core ring, golden translucent fibres, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one round slice of fresh pineapple with rind and core ring, golden translucent fibres, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## nuts
@@ -207,7 +207,7 @@ one round slice of fresh pineapple with rind and core ring, golden translucent f
 - Size: 1024 × 1024
 
 ```text
-one whole raw almond, brown textured skin with natural grooves, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole raw almond, brown textured skin with natural grooves, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### almond-sliced
@@ -215,7 +215,7 @@ one whole raw almond, brown textured skin with natural grooves, isolated on a se
 - Size: 1024 × 1024
 
 ```text
-a few thin almond slivers, pale ivory with brown skin edges, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a few thin almond slivers, pale ivory with brown skin edges, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cashew
@@ -223,7 +223,7 @@ a few thin almond slivers, pale ivory with brown skin edges, isolated on a seaml
 - Size: 1024 × 1024
 
 ```text
-one whole roasted cashew, creamy golden, kidney shape, fine surface detail, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole roasted cashew, creamy golden, kidney shape, fine surface detail, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### pistachio
@@ -231,7 +231,7 @@ one whole roasted cashew, creamy golden, kidney shape, fine surface detail, isol
 - Size: 1024 × 1024
 
 ```text
-one pistachio in its split cream shell, vivid green-purple kernel visible, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one pistachio in its split cream shell, vivid green-purple kernel visible, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### hazelnut
@@ -239,7 +239,7 @@ one pistachio in its split cream shell, vivid green-purple kernel visible, isola
 - Size: 1024 × 1024
 
 ```text
-one whole roasted hazelnut, glossy brown shell, pale cap, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole roasted hazelnut, glossy brown shell, pale cap, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### nut-group-small
@@ -247,7 +247,7 @@ one whole roasted hazelnut, glossy brown shell, pale cap, isolated on a seamless
 - Size: 1024 × 1024
 
 ```text
-small group of mixed nuts: two almonds, a cashew, a pistachio and a hazelnut, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small group of mixed nuts: two almonds, a cashew, a pistachio and a hazelnut, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### nuts-scattered
@@ -255,7 +255,7 @@ small group of mixed nuts: two almonds, a cashew, a pistachio and a hazelnut, is
 - Size: 1216 × 832
 
 ```text
-scattered mixed nuts, almonds, cashews, pistachios and hazelnuts spread loosely, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+scattered mixed nuts, almonds, cashews, pistachios and hazelnuts spread loosely, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### nuts-crushed
@@ -263,7 +263,7 @@ scattered mixed nuts, almonds, cashews, pistachios and hazelnuts spread loosely,
 - Size: 1024 × 1024
 
 ```text
-small pile of crushed roasted nuts, mixed coarse pieces and crumbs, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small pile of crushed roasted nuts, mixed coarse pieces and crumbs, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### nut-pieces
@@ -271,7 +271,7 @@ small pile of crushed roasted nuts, mixed coarse pieces and crumbs, isolated on 
 - Size: 1024 × 1024
 
 ```text
-a few broken pieces of almond and pistachio, rough fractured edges, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a few broken pieces of almond and pistachio, rough fractured edges, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## chocolate
@@ -281,7 +281,7 @@ a few broken pieces of almond and pistachio, rough fractured edges, isolated on 
 - Size: 1024 × 1024
 
 ```text
-one snapped square piece of glossy dark chocolate, sharp broken edge, embossed segments, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one snapped square piece of glossy dark chocolate, sharp broken edge, embossed segments, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### chocolate-milk-piece
@@ -289,7 +289,7 @@ one snapped square piece of glossy dark chocolate, sharp broken edge, embossed s
 - Size: 1024 × 1024
 
 ```text
-one piece of milk chocolate bar, two segments, satin sheen, broken edge, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one piece of milk chocolate bar, two segments, satin sheen, broken edge, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### chocolate-chunk
@@ -297,7 +297,7 @@ one piece of milk chocolate bar, two segments, satin sheen, broken edge, isolate
 - Size: 1024 × 1024
 
 ```text
-one irregular rough chunk of dark chocolate, fractured facets, matte and glossy areas, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one irregular rough chunk of dark chocolate, fractured facets, matte and glossy areas, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### chocolate-shavings
@@ -305,7 +305,7 @@ one irregular rough chunk of dark chocolate, fractured facets, matte and glossy 
 - Size: 1024 × 1024
 
 ```text
-a few delicate curled dark chocolate shavings, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a few delicate curled dark chocolate shavings, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### chocolate-crumbs
@@ -313,7 +313,7 @@ a few delicate curled dark chocolate shavings, isolated on a seamless pure white
 - Size: 1216 × 832
 
 ```text
-small scattering of dark chocolate crumbs and flakes, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small scattering of dark chocolate crumbs and flakes, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### chocolate-drizzle
@@ -321,7 +321,7 @@ small scattering of dark chocolate crumbs and flakes, isolated on a seamless pur
 - Size: 1344 × 640
 
 ```text
-a single thick glossy ribbon of melted dark chocolate flowing through the air, liquid highlights, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a single thick glossy ribbon of melted dark chocolate flowing through the air, liquid highlights, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### caramel-drizzle
@@ -329,7 +329,7 @@ a single thick glossy ribbon of melted dark chocolate flowing through the air, l
 - Size: 1344 × 640
 
 ```text
-a single thick glossy ribbon of golden salted caramel sauce flowing through the air, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a single thick glossy ribbon of golden salted caramel sauce flowing through the air, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## cookies
@@ -339,7 +339,7 @@ a single thick glossy ribbon of golden salted caramel sauce flowing through the 
 - Size: 1024 × 1024
 
 ```text
-one whole chewy chocolate chip cookie, golden cracked surface, melted dark chocolate chunks, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole chewy chocolate chip cookie, golden cracked surface, melted dark chocolate chunks, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cookie-half
@@ -347,7 +347,7 @@ one whole chewy chocolate chip cookie, golden cracked surface, melted dark choco
 - Size: 1024 × 1024
 
 ```text
-one chocolate chip cookie broken in half, crumbly broken edge, gooey chocolate, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one chocolate chip cookie broken in half, crumbly broken edge, gooey chocolate, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cookie-piece
@@ -355,7 +355,7 @@ one chocolate chip cookie broken in half, crumbly broken edge, gooey chocolate, 
 - Size: 1024 × 1024
 
 ```text
-one broken piece of chocolate chip cookie, jagged edge, chocolate chunk, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one broken piece of chocolate chip cookie, jagged edge, chocolate chunk, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cookie-chunks
@@ -363,7 +363,7 @@ one broken piece of chocolate chip cookie, jagged edge, chocolate chunk, isolate
 - Size: 1024 × 1024
 
 ```text
-three rough chunks of chocolate chip cookie, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+three rough chunks of chocolate chip cookie, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cookie-crumbs
@@ -371,7 +371,7 @@ three rough chunks of chocolate chip cookie, isolated on a seamless pure white s
 - Size: 1216 × 832
 
 ```text
-scattered golden cookie crumbs with tiny chocolate bits, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+scattered golden cookie crumbs with tiny chocolate bits, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## ice
@@ -381,7 +381,7 @@ scattered golden cookie crumbs with tiny chocolate bits, isolated on a seamless 
 - Size: 1024 × 1024
 
 ```text
-one crystal-clear transparent ice cube, frosty edges, internal bubbles, refractions, backlit, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one crystal-clear transparent ice cube, frosty edges, internal bubbles, refractions, backlit, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### ice-cube-group
@@ -389,7 +389,7 @@ one crystal-clear transparent ice cube, frosty edges, internal bubbles, refracti
 - Size: 1024 × 1024
 
 ```text
-three transparent ice cubes stacked, refractions, frost, backlit, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+three transparent ice cubes stacked, refractions, frost, backlit, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### ice-crushed
@@ -397,7 +397,7 @@ three transparent ice cubes stacked, refractions, frost, backlit, isolated on a 
 - Size: 1024 × 1024
 
 ```text
-small heap of crushed ice, glittering transparent shards, backlit, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+small heap of crushed ice, glittering transparent shards, backlit, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### ice-melting
@@ -405,7 +405,7 @@ small heap of crushed ice, glittering transparent shards, backlit, isolated on a
 - Size: 1024 × 1024
 
 ```text
-one melting ice cube with a running droplet and wet sheen, backlit, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one melting ice cube with a running droplet and wet sheen, backlit, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### ice-droplets
@@ -413,7 +413,7 @@ one melting ice cube with a running droplet and wet sheen, backlit, isolated on 
 - Size: 1024 × 1024
 
 ```text
-cluster of clear water droplets frozen mid-air, backlit, sparkling, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+cluster of clear water droplets frozen mid-air, backlit, sparkling, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## milk
@@ -423,7 +423,7 @@ cluster of clear water droplets frozen mid-air, backlit, sparkling, isolated on 
 - Size: 640 × 1344
 
 ```text
-a single smooth vertical stream of fresh white milk pouring, glossy liquid, high-speed photography, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a single smooth vertical stream of fresh white milk pouring, glossy liquid, high-speed photography, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### milk-splash
@@ -431,7 +431,7 @@ a single smooth vertical stream of fresh white milk pouring, glossy liquid, high
 - Size: 1216 × 832
 
 ```text
-crown-shaped splash of fresh white milk frozen mid-air, droplets, high-speed flash photography, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+crown-shaped splash of fresh white milk frozen mid-air, droplets, high-speed flash photography, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### milk-droplets
@@ -439,15 +439,15 @@ crown-shaped splash of fresh white milk frozen mid-air, droplets, high-speed fla
 - Size: 1216 × 832
 
 ```text
-scattered spherical droplets of white milk frozen in mid-air, high-speed photography, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+scattered spherical droplets of white milk frozen in mid-air, high-speed photography, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### milk-wave
 - Save as: `assets-src/originals/milk/milk-wave.png`
-- Size: 1344 × 640
+- Size: 1216 × 832
 
 ```text
-a curling wave of fresh white milk frozen mid-motion, silky glossy surface, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a small curling ribbon of fresh white milk frozen mid-air, both ends fully visible and tapering, silky glossy surface, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### milk-foam
@@ -455,7 +455,7 @@ a curling wave of fresh white milk frozen mid-motion, silky glossy surface, isol
 - Size: 1216 × 832
 
 ```text
-close-up of thick creamy white milk foam with fine micro-bubbles, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+close-up of thick creamy white milk foam with fine micro-bubbles, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### milk-bubbles
@@ -463,7 +463,7 @@ close-up of thick creamy white milk foam with fine micro-bubbles, isolated on a 
 - Size: 1024 × 1024
 
 ```text
-a few glossy white milk bubbles and small droplets, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a few glossy white milk bubbles and small droplets, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## cream
@@ -473,7 +473,7 @@ a few glossy white milk bubbles and small droplets, isolated on a seamless pure 
 - Size: 1024 × 1024
 
 ```text
-tall piped swirl of fresh whipped cream, sharp ridged star-tip texture, soft sheen, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+tall piped swirl of fresh whipped cream, sharp ridged star-tip texture, soft sheen, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cream-peak
@@ -481,7 +481,7 @@ tall piped swirl of fresh whipped cream, sharp ridged star-tip texture, soft she
 - Size: 1024 × 1024
 
 ```text
-a single soft peak of fresh whipped cream, glossy folds, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a single free-standing dollop of fresh whipped cream with one soft curled peak, glossy folds, nothing underneath it, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cream-topping
@@ -489,7 +489,7 @@ a single soft peak of fresh whipped cream, glossy folds, isolated on a seamless 
 - Size: 1216 × 832
 
 ```text
-generous dome of whipped cream topping with ridges, as on a milkshake, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a free-standing dome of piped whipped cream with ridges, no glass, no cup, no base, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### cream-droplets
@@ -497,7 +497,7 @@ generous dome of whipped cream topping with ridges, as on a milkshake, isolated 
 - Size: 1024 × 1024
 
 ```text
-a few blobs and droplets of fresh cream flying mid-air, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+a few blobs and droplets of fresh cream flying mid-air, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## jar
@@ -507,7 +507,7 @@ a few blobs and droplets of fresh cream flying mid-air, isolated on a seamless p
 - Size: 832 × 1216
 
 ```text
-premium empty transparent glass blender jar with lid and brushed steel base, front view, crisp reflections, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium empty transparent glass blender jar with lid and brushed steel base, front view, crisp reflections, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### jar-side
@@ -515,7 +515,7 @@ premium empty transparent glass blender jar with lid and brushed steel base, fro
 - Size: 832 × 1216
 
 ```text
-premium transparent glass blender jar with handle, side view, crisp reflections, brushed steel base, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium transparent glass blender jar with handle, side view, crisp reflections, brushed steel base, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### jar-top
@@ -523,7 +523,7 @@ premium transparent glass blender jar with handle, side view, crisp reflections,
 - Size: 1024 × 1024
 
 ```text
-premium glass blender jar seen from above at an angle, open top, steel blades inside, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium glass blender jar seen from above at an angle, open top, steel blades inside, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### jar-empty
@@ -531,7 +531,7 @@ premium glass blender jar seen from above at an angle, open top, steel blades in
 - Size: 832 × 1216
 
 ```text
-premium empty transparent glass mixing jar without lid, front view, measurement marks, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium empty transparent glass mixing jar without lid, front view, measurement marks, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### jar-with-fruit
@@ -539,7 +539,7 @@ premium empty transparent glass mixing jar without lid, front view, measurement 
 - Size: 832 × 1216
 
 ```text
-premium transparent glass blender jar filled with strawberries, banana, mango and blueberries, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium transparent glass blender jar filled with strawberries, banana, mango and blueberries, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### jar-with-milk
@@ -547,7 +547,7 @@ premium transparent glass blender jar filled with strawberries, banana, mango an
 - Size: 832 × 1216
 
 ```text
-premium transparent glass blender jar with fruit and fresh milk pouring in, bubbles, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+premium transparent glass blender jar standing alone, partly filled with fresh milk and fruit pieces, small bubbles on the milk surface, no hands, no people, no pitcher, nothing pouring, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## shakes
@@ -557,7 +557,7 @@ premium transparent glass blender jar with fruit and fresh milk pouring in, bubb
 - Size: 832 × 1216
 
 ```text
-thick dark chocolate milkshake in a tall fluted glass, chocolate drizzle running down the inside, whipped cream, brownie chunk and chocolate shavings on top, condensation droplets, paper straw, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick dark chocolate milkshake in a tall fluted glass, chocolate drizzle running down the inside, whipped cream, brownie chunk and chocolate shavings on top, condensation droplets, paper straw, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### shake-strawberry-cloud
@@ -565,7 +565,7 @@ thick dark chocolate milkshake in a tall fluted glass, chocolate drizzle running
 - Size: 832 × 1216
 
 ```text
-thick pastel pink strawberry milkshake in a tall classic soda glass, cloud of whipped cream, fresh strawberry halves, strawberry sauce streaks, condensation, striped straw, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick pastel pink strawberry milkshake in a tall classic soda glass, cloud of whipped cream, fresh strawberry halves, strawberry sauce streaks, condensation, striped straw, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### shake-pistachio-dream
@@ -573,7 +573,7 @@ thick pastel pink strawberry milkshake in a tall classic soda glass, cloud of wh
 - Size: 832 × 1216
 
 ```text
-thick pale green pistachio milkshake in a stemmed tulip glass, whipped cream, crushed pistachios, white chocolate curls, condensation droplets, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick pale green pistachio milkshake in a stemmed tulip glass, whipped cream, crushed pistachios, white chocolate curls, condensation droplets, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### shake-mango-blast
@@ -581,7 +581,7 @@ thick pale green pistachio milkshake in a stemmed tulip glass, whipped cream, cr
 - Size: 832 × 1216
 
 ```text
-thick golden mango milkshake in a tall mason jar glass, whipped cream, mango cubes, passion fruit drizzle, condensation, sunny, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick golden mango milkshake in a tall mason jar glass, whipped cream, mango cubes, passion fruit drizzle, condensation, sunny, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### shake-nutty-caramel
@@ -589,7 +589,7 @@ thick golden mango milkshake in a tall mason jar glass, whipped cream, mango cub
 - Size: 832 × 1216
 
 ```text
-thick caramel milkshake in a heavy tumbler glass, salted caramel ribbons, whipped cream, candied almonds, cashews and hazelnuts, condensation, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick caramel milkshake in a heavy tumbler glass, salted caramel ribbons, whipped cream, candied almonds, cashews and hazelnuts, condensation, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### shake-cookie-monster
@@ -597,7 +597,7 @@ thick caramel milkshake in a heavy tumbler glass, salted caramel ribbons, whippe
 - Size: 832 × 1216
 
 ```text
-thick cookies-and-cream milkshake in a big milk bottle glass, speckled with cookie crumbs, whipped cream, whole chocolate chip cookie on top, condensation, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+thick cookies-and-cream milkshake in a big milk bottle glass, speckled with cookie crumbs, whipped cream, whole chocolate chip cookie on top, condensation, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## props
@@ -607,7 +607,7 @@ thick cookies-and-cream milkshake in a big milk bottle glass, speckled with cook
 - Size: 1344 × 640
 
 ```text
-professional chef knife, polished steel blade with fine edge reflections, dark pakkawood handle, side view, isolated on a seamless pure white studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+professional chef knife, polished steel blade with fine edge reflections, dark pakkawood handle, side view, plain unbranded blade, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## splash
@@ -617,7 +617,7 @@ professional chef knife, polished steel blade with fine edge reflections, dark p
 - Size: 1216 × 832
 
 ```text
-huge crown splash of crystal-clear water frozen mid-air, droplets, high-speed flash photography, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+huge crown splash of crystal-clear water frozen mid-air, droplets, high-speed flash photography, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### water-splash-wide
@@ -625,7 +625,7 @@ huge crown splash of crystal-clear water frozen mid-air, droplets, high-speed fl
 - Size: 1344 × 640
 
 ```text
-wide sheet splash of clear water spraying outward, thousands of droplets, high-speed photography, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+wide sheet splash of clear water spraying outward, thousands of droplets, high-speed photography, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### water-droplets
@@ -633,7 +633,7 @@ wide sheet splash of clear water spraying outward, thousands of droplets, high-s
 - Size: 1216 × 832
 
 ```text
-cloud of clear water droplets frozen mid-air, sparkling highlights, isolated on a seamless pure black studio background, entire subject in frame with generous margin, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+cloud of clear water droplets frozen mid-air, sparkling highlights, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ## Video clips

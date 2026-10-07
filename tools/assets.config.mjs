@@ -18,8 +18,8 @@ export const STYLE =
 
 export const BACKDROPS = {
   // Light subjects are shot on black, dark/colourful subjects on white — cleaner cutouts either way.
-  white: 'isolated on a seamless pure white studio background, entire subject in frame with generous margin',
-  black: 'isolated on a seamless pure black studio background, entire subject in frame with generous margin',
+  white: 'isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges',
+  black: 'isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges',
   scene: 'dark moody studio set, cinematic rim light'
 };
 
@@ -66,8 +66,8 @@ export const ASSETS = [
   a('strawberry-half', 'slices', 'one strawberry half, cut face toward camera, juicy white-pink heart and red flesh, glistening juice'),
   a('strawberry-slice', 'slices', 'one thin round strawberry slice, translucent red flesh with white star pattern, glistening, backlit'),
   a('strawberry-small-piece', 'slices', 'one small diced piece of strawberry, juicy red flesh, glistening'),
-  a('banana-piece', 'slices', 'one thick chunk of peeled banana, creamy cut faces, soft seed dots in the centre'),
-  a('banana-slice', 'slices', 'one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moist'),
+  a('banana-piece', 'slices', 'one short thick cylindrical chunk of peeled banana, both flat cut ends visible, creamy ivory flesh, tiny faint seed specks in the centre, no peel', { backdrop: 'black' }),
+  a('banana-slice', 'slices', 'one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moist', { backdrop: 'black' }),
   a('mango-cut', 'slices', 'mango hedgehog cut, one half scored into cubes and pushed outward, vivid juicy orange flesh'),
   a('mango-half', 'slices', 'one mango cheek cut off, juicy glossy deep orange flesh facing camera'),
   a('mango-slice', 'slices', 'one long juicy mango slice, curved, glossy deep orange flesh, skin edge', { size: WIDE }),
@@ -77,10 +77,10 @@ export const ASSETS = [
 
   // ── NUTS ──────────────────────────────────────────────────────────────
   a('almond', 'nuts', 'one whole raw almond, brown textured skin with natural grooves'),
-  a('almond-sliced', 'nuts', 'a few thin almond slivers, pale ivory with brown skin edges'),
+  a('almond-sliced', 'nuts', 'a few thin almond slivers, pale ivory with brown skin edges', { backdrop: 'black' }),
   a('cashew', 'nuts', 'one whole roasted cashew, creamy golden, kidney shape, fine surface detail'),
   a('pistachio', 'nuts', 'one pistachio in its split cream shell, vivid green-purple kernel visible'),
-  a('hazelnut', 'nuts', 'one whole roasted hazelnut, glossy brown shell, pale cap'),
+  a('hazelnut', 'nuts', 'one whole roasted hazelnut, glossy brown shell, pale cap', { backdrop: 'black' }),
   a('nut-group-small', 'nuts', 'small group of mixed nuts: two almonds, a cashew, a pistachio and a hazelnut', { shadow: true }),
   a('nuts-scattered', 'nuts', 'scattered mixed nuts, almonds, cashews, pistachios and hazelnuts spread loosely', { size: WIDE }),
   a('nuts-crushed', 'nuts', 'small pile of crushed roasted nuts, mixed coarse pieces and crumbs'),
@@ -113,14 +113,14 @@ export const ASSETS = [
   a('milk-stream', 'milk', 'a single smooth vertical stream of fresh white milk pouring, glossy liquid, high-speed photography', { backdrop: 'black', cutoutMode: 'luma', size: [640, 1344] }),
   a('milk-splash', 'milk', 'crown-shaped splash of fresh white milk frozen mid-air, droplets, high-speed flash photography', { backdrop: 'black', cutoutMode: 'luma', size: WIDE }),
   a('milk-droplets', 'milk', 'scattered spherical droplets of white milk frozen in mid-air, high-speed photography', { backdrop: 'black', cutoutMode: 'luma', size: WIDE }),
-  a('milk-wave', 'milk', 'a curling wave of fresh white milk frozen mid-motion, silky glossy surface', { backdrop: 'black', cutoutMode: 'luma', size: PANO }),
+  a('milk-wave', 'milk', 'a small curling ribbon of fresh white milk frozen mid-air, both ends fully visible and tapering, silky glossy surface', { backdrop: 'black', cutoutMode: 'luma', size: WIDE }),
   a('milk-foam', 'milk', 'close-up of thick creamy white milk foam with fine micro-bubbles', { backdrop: 'black', cutoutMode: 'luma', size: WIDE }),
   a('milk-bubbles', 'milk', 'a few glossy white milk bubbles and small droplets', { backdrop: 'black', cutoutMode: 'luma' }),
 
   // ── CREAM ─────────────────────────────────────────────────────────────
   a('cream-swirl', 'cream', 'tall piped swirl of fresh whipped cream, sharp ridged star-tip texture, soft sheen', { backdrop: 'black' }),
-  a('cream-peak', 'cream', 'a single soft peak of fresh whipped cream, glossy folds', { backdrop: 'black' }),
-  a('cream-topping', 'cream', 'generous dome of whipped cream topping with ridges, as on a milkshake', { backdrop: 'black', size: WIDE }),
+  a('cream-peak', 'cream', 'a single free-standing dollop of fresh whipped cream with one soft curled peak, glossy folds, nothing underneath it', { backdrop: 'black' }),
+  a('cream-topping', 'cream', 'a free-standing dome of piped whipped cream with ridges, no glass, no cup, no base', { backdrop: 'black', size: WIDE }),
   a('cream-droplets', 'cream', 'a few blobs and droplets of fresh cream flying mid-air', { backdrop: 'black', cutoutMode: 'luma' }),
 
   // ── MIXING JAR ────────────────────────────────────────────────────────
@@ -129,7 +129,7 @@ export const ASSETS = [
   a('jar-top', 'jar', 'premium glass blender jar seen from above at an angle, open top, steel blades inside', { size: SQ }),
   a('jar-empty', 'jar', 'premium empty transparent glass mixing jar without lid, front view, measurement marks', { size: TALL }),
   a('jar-with-fruit', 'jar', 'premium transparent glass blender jar filled with strawberries, banana, mango and blueberries', { size: TALL }),
-  a('jar-with-milk', 'jar', 'premium transparent glass blender jar with fruit and fresh milk pouring in, bubbles', { size: TALL }),
+  a('jar-with-milk', 'jar', 'premium transparent glass blender jar standing alone, partly filled with fresh milk and fruit pieces, small bubbles on the milk surface, no hands, no people, no pitcher, nothing pouring', { size: TALL }),
 
   // ── FINISHED SHAKES (each a unique product photograph) ────────────────
   a('shake-choco-overload', 'shakes', 'thick dark chocolate milkshake in a tall fluted glass, chocolate drizzle running down the inside, whipped cream, brownie chunk and chocolate shavings on top, condensation droplets, paper straw', { size: TALL, shadow: true }),
@@ -140,7 +140,7 @@ export const ASSETS = [
   a('shake-cookie-monster', 'shakes', 'thick cookies-and-cream milkshake in a big milk bottle glass, speckled with cookie crumbs, whipped cream, whole chocolate chip cookie on top, condensation', { size: TALL, shadow: true }),
 
   // ── PROPS + SPLASH ────────────────────────────────────────────────────
-  a('knife-chef', 'props', 'professional chef knife, polished steel blade with fine edge reflections, dark pakkawood handle, side view', { size: PANO }),
+  a('knife-chef', 'props', 'professional chef knife, polished steel blade with fine edge reflections, dark pakkawood handle, side view, plain unbranded blade', { backdrop: 'black', size: PANO }),
   a('water-splash-crown', 'splash', 'huge crown splash of crystal-clear water frozen mid-air, droplets, high-speed flash photography', { backdrop: 'black', cutoutMode: 'luma', size: WIDE }),
   a('water-splash-wide', 'splash', 'wide sheet splash of clear water spraying outward, thousands of droplets, high-speed photography', { backdrop: 'black', cutoutMode: 'luma', size: PANO }),
   a('water-droplets', 'splash', 'cloud of clear water droplets frozen mid-air, sparkling highlights', { backdrop: 'black', cutoutMode: 'luma', size: WIDE })

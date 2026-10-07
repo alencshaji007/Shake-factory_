@@ -219,11 +219,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "ice-cube": {
-   "src": "assets/images/standin/ice/ice-cube",
-   "w": 907,
-   "h": 949,
+   "src": "assets/images/generated/ice/ice-cube",
+   "w": 1008,
+   "h": 832,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "ice-cube-group": {
    "src": "assets/images/generated/ice/ice-cube-group",
@@ -274,11 +275,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "jar-top": {
-   "src": "assets/images/standin/jar/jar-top",
-   "w": 1200,
-   "h": 964,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/jar/jar-top",
+   "w": 692,
+   "h": 812,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "jar-with-fruit": {
    "src": "assets/images/generated/jar/jar-with-fruit",
@@ -375,11 +377,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "milk-stream": {
-   "src": "assets/images/standin/milk/milk-stream",
-   "w": 409,
-   "h": 2219,
+   "src": "assets/images/generated/milk/milk-stream",
+   "w": 720,
+   "h": 1424,
    "sm": false,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "milk-wave": {
    "src": "assets/images/standin/milk/milk-wave",

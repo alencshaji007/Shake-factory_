@@ -1,0 +1,13 @@
+{
+  "id": "banana-slice",
+  "category": "slices",
+  "model": "black-forest-labs/FLUX.1-Krea-dev",
+  "provider": "space:black-forest-labs/FLUX.1-Krea-dev",
+  "seed": 1851651270,
+  "width": 1024,
+  "height": 1024,
+  "steps": 28,
+  "guidance": 4.5,
+  "prompt": "one round slice of banana, creamy ivory flesh, tiny seed star in the centre, moist, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject",
+  "negative": "cartoon, illustration, anime, painting, drawing, flat design, vector, plastic food, toy-like, obvious CGI, 3d render, unrealistic texture, fantasy food, oversaturated, artificial colours, text, watermark, logo, label, cropped subject, hands"
+}

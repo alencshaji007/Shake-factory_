@@ -80,7 +80,7 @@ export const ASSETS = [
   a('almond-sliced', 'nuts', 'a few thin almond slivers, pale ivory with brown skin edges', { backdrop: 'black' }),
   a('cashew', 'nuts', 'one whole roasted cashew, creamy golden, kidney shape, fine surface detail'),
   a('pistachio', 'nuts', 'one pistachio in its split cream shell, vivid green-purple kernel visible'),
-  a('hazelnut', 'nuts', 'one whole roasted hazelnut, glossy brown shell, pale cap', { backdrop: 'black' }),
+  a('hazelnut', 'nuts', 'one whole roasted hazelnut, glossy brown shell, pale cap'),
   a('nut-group-small', 'nuts', 'small group of mixed nuts: two almonds, a cashew, a pistachio and a hazelnut', { shadow: true }),
   a('nuts-scattered', 'nuts', 'scattered mixed nuts, almonds, cashews, pistachios and hazelnuts spread loosely', { size: WIDE }),
   a('nuts-crushed', 'nuts', 'small pile of crushed roasted nuts, mixed coarse pieces and crumbs'),

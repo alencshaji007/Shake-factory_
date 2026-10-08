@@ -239,7 +239,7 @@ one pistachio in its split cream shell, vivid green-purple kernel visible, isola
 - Size: 1024 × 1024
 
 ```text
-one whole roasted hazelnut, glossy brown shell, pale cap, isolated on a seamless pure black studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
+one whole roasted hazelnut, glossy brown shell, pale cap, isolated on a seamless pure white studio background, subject small and centred in the frame with wide empty space on every side, nothing touching or cut off by the frame edges, photorealistic commercial food photography, high-end food advertising, premium studio product photography, macro lens, realistic natural texture with natural imperfections, realistic moisture, physically believable materials, soft directional key light with realistic reflections and shadows, shallow depth of field, tack-sharp subject
 ```
 
 ### nut-group-small

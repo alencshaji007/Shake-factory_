@@ -17,11 +17,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "banana-piece": {
-   "src": "assets/images/standin/slices/banana-piece",
-   "w": 800,
-   "h": 995,
+   "src": "assets/images/generated/slices/banana-piece",
+   "w": 760,
+   "h": 1028,
    "sm": false,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "banana-side": {
    "src": "assets/images/generated/fruits/banana-side",
@@ -32,18 +33,20 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "banana-slice": {
-   "src": "assets/images/standin/slices/banana-slice",
-   "w": 962,
-   "h": 896,
+   "src": "assets/images/generated/slices/banana-slice",
+   "w": 932,
+   "h": 955,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "banana-whole": {
-   "src": "assets/images/standin/fruits/banana-whole",
-   "w": 1200,
-   "h": 610,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/fruits/banana-whole",
+   "w": 587,
+   "h": 457,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "blueberry-closeup": {
    "src": "assets/images/generated/fruits/blueberry-closeup",
@@ -298,11 +301,12 @@ window.SF_MANIFEST = {
    "source": "standin"
   },
   "knife-chef": {
-   "src": "assets/images/standin/props/knife-chef",
-   "w": 1200,
-   "h": 261,
+   "src": "assets/images/generated/props/knife-chef",
+   "w": 1050,
+   "h": 267,
    "sm": true,
-   "source": "standin"
+   "source": "hf",
+   "avif": false
   },
   "mango-cube": {
    "src": "assets/images/generated/slices/mango-cube",
@@ -488,11 +492,12 @@ window.SF_MANIFEST = {
    "avif": false
   },
   "shake-nutty-caramel": {
-   "src": "assets/images/standin/shakes/shake-nutty-caramel",
-   "w": 988,
-   "h": 1834,
-   "sm": true,
-   "source": "standin"
+   "src": "assets/images/generated/shakes/shake-nutty-caramel",
+   "w": 656,
+   "h": 997,
+   "sm": false,
+   "source": "hf",
+   "avif": false
   },
   "shake-pistachio-dream": {
    "src": "assets/images/generated/shakes/shake-pistachio-dream",
